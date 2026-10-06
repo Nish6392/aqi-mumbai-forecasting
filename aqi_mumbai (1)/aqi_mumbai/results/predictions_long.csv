@@ -1,0 +1,1126 @@
+origin,station,horizon,model,y_true,y_pred
+2026-09-16 08:00:00,Mumbai (8039),1,Persistence,47.0,33.0
+2026-09-16 11:00:00,Mumbai (8039),1,Persistence,8.0,12.0
+2026-09-16 14:00:00,Mumbai (8039),1,Persistence,6.0,9.0
+2026-09-16 17:00:00,Mumbai (8039),1,Persistence,10.0,11.0
+2026-09-16 20:00:00,Mumbai (8039),1,Persistence,12.0,13.0
+2026-09-16 23:00:00,Mumbai (8039),1,Persistence,14.0,14.0
+2026-09-17 02:00:00,Mumbai (8039),1,Persistence,33.0,32.0
+2026-09-17 05:00:00,Mumbai (8039),1,Persistence,14.0,15.0
+2026-09-17 08:00:00,Mumbai (8039),1,Persistence,30.0,21.0
+2026-09-17 11:00:00,Mumbai (8039),1,Persistence,16.0,20.0
+2026-09-17 14:00:00,Mumbai (8039),1,Persistence,9.0,11.0
+2026-09-17 17:00:00,Mumbai (8039),1,Persistence,7.0,6.0
+2026-09-17 20:00:00,Mumbai (8039),1,Persistence,13.0,9.0
+2026-09-17 23:00:00,Mumbai (8039),1,Persistence,17.0,11.0
+2026-09-18 02:00:00,Mumbai (8039),1,Persistence,7.0,9.0
+2026-09-18 05:00:00,Mumbai (8039),1,Persistence,4.0,5.0
+2026-09-18 08:00:00,Mumbai (8039),1,Persistence,14.0,10.0
+2026-09-18 11:00:00,Mumbai (8039),1,Persistence,12.0,12.0
+2026-09-18 14:00:00,Mumbai (8039),1,Persistence,11.0,11.0
+2026-09-18 17:00:00,Mumbai (8039),1,Persistence,18.0,8.0
+2026-09-18 20:00:00,Mumbai (8039),1,Persistence,11.0,10.0
+2026-09-18 23:00:00,Mumbai (8039),1,Persistence,19.0,15.0
+2026-09-19 02:00:00,Mumbai (8039),1,Persistence,11.0,13.0
+2026-09-19 05:00:00,Mumbai (8039),1,Persistence,9.0,10.0
+2026-09-19 08:00:00,Mumbai (8039),1,Persistence,12.0,5.0
+2026-09-19 11:00:00,Mumbai (8039),1,Persistence,24.0,23.0
+2026-09-19 14:00:00,Mumbai (8039),1,Persistence,14.0,33.0
+2026-09-19 17:00:00,Mumbai (8039),1,Persistence,27.0,15.0
+2026-09-19 20:00:00,Mumbai (8039),1,Persistence,23.0,21.0
+2026-09-19 23:00:00,Mumbai (8039),1,Persistence,21.0,35.0
+2026-09-20 02:00:00,Mumbai (8039),1,Persistence,24.0,23.0
+2026-09-20 05:00:00,Mumbai (8039),1,Persistence,27.0,26.0
+2026-09-20 08:00:00,Mumbai (8039),1,Persistence,33.0,33.0
+2026-09-20 11:00:00,Mumbai (8039),1,Persistence,25.0,25.0
+2026-09-20 14:00:00,Mumbai (8039),1,Persistence,19.0,19.0
+2026-09-20 17:00:00,Mumbai (8039),1,Persistence,12.0,21.0
+2026-09-20 20:00:00,Mumbai (8039),1,Persistence,26.0,19.0
+2026-09-20 23:00:00,Mumbai (8039),1,Persistence,27.0,31.0
+2026-09-21 02:00:00,Mumbai (8039),1,Persistence,30.0,36.0
+2026-09-21 05:00:00,Mumbai (8039),1,Persistence,39.0,36.0
+2026-09-21 08:00:00,Mumbai (8039),1,Persistence,46.0,50.0
+2026-09-21 11:00:00,Mumbai (8039),1,Persistence,44.0,44.0
+2026-09-21 17:00:00,Mumbai (8039),1,Persistence,21.0,27.0
+2026-09-21 20:00:00,Mumbai (8039),1,Persistence,3.0,18.0
+2026-09-21 23:00:00,Mumbai (8039),1,Persistence,21.0,15.0
+2026-09-22 02:00:00,Mumbai (8039),1,Persistence,34.0,26.0
+2026-09-22 05:00:00,Mumbai (8039),1,Persistence,38.0,34.0
+2026-09-22 08:00:00,Mumbai (8039),1,Persistence,39.0,36.0
+2026-09-16 08:00:00,Mumbai (8039),3,Persistence,12.0,33.0
+2026-09-16 11:00:00,Mumbai (8039),3,Persistence,9.0,12.0
+2026-09-16 14:00:00,Mumbai (8039),3,Persistence,11.0,9.0
+2026-09-16 17:00:00,Mumbai (8039),3,Persistence,13.0,11.0
+2026-09-16 20:00:00,Mumbai (8039),3,Persistence,14.0,13.0
+2026-09-16 23:00:00,Mumbai (8039),3,Persistence,32.0,14.0
+2026-09-17 02:00:00,Mumbai (8039),3,Persistence,15.0,32.0
+2026-09-17 05:00:00,Mumbai (8039),3,Persistence,21.0,15.0
+2026-09-17 08:00:00,Mumbai (8039),3,Persistence,20.0,21.0
+2026-09-17 11:00:00,Mumbai (8039),3,Persistence,11.0,20.0
+2026-09-17 14:00:00,Mumbai (8039),3,Persistence,6.0,11.0
+2026-09-17 17:00:00,Mumbai (8039),3,Persistence,9.0,6.0
+2026-09-17 20:00:00,Mumbai (8039),3,Persistence,11.0,9.0
+2026-09-17 23:00:00,Mumbai (8039),3,Persistence,9.0,11.0
+2026-09-18 02:00:00,Mumbai (8039),3,Persistence,5.0,9.0
+2026-09-18 05:00:00,Mumbai (8039),3,Persistence,10.0,5.0
+2026-09-18 08:00:00,Mumbai (8039),3,Persistence,12.0,10.0
+2026-09-18 11:00:00,Mumbai (8039),3,Persistence,11.0,12.0
+2026-09-18 14:00:00,Mumbai (8039),3,Persistence,8.0,11.0
+2026-09-18 17:00:00,Mumbai (8039),3,Persistence,10.0,8.0
+2026-09-18 20:00:00,Mumbai (8039),3,Persistence,15.0,10.0
+2026-09-18 23:00:00,Mumbai (8039),3,Persistence,13.0,15.0
+2026-09-19 02:00:00,Mumbai (8039),3,Persistence,10.0,13.0
+2026-09-19 05:00:00,Mumbai (8039),3,Persistence,5.0,10.0
+2026-09-19 08:00:00,Mumbai (8039),3,Persistence,23.0,5.0
+2026-09-19 11:00:00,Mumbai (8039),3,Persistence,33.0,23.0
+2026-09-19 14:00:00,Mumbai (8039),3,Persistence,15.0,33.0
+2026-09-19 17:00:00,Mumbai (8039),3,Persistence,21.0,15.0
+2026-09-19 20:00:00,Mumbai (8039),3,Persistence,35.0,21.0
+2026-09-19 23:00:00,Mumbai (8039),3,Persistence,23.0,35.0
+2026-09-20 02:00:00,Mumbai (8039),3,Persistence,26.0,23.0
+2026-09-20 05:00:00,Mumbai (8039),3,Persistence,33.0,26.0
+2026-09-20 08:00:00,Mumbai (8039),3,Persistence,25.0,33.0
+2026-09-20 11:00:00,Mumbai (8039),3,Persistence,19.0,25.0
+2026-09-20 14:00:00,Mumbai (8039),3,Persistence,21.0,19.0
+2026-09-20 17:00:00,Mumbai (8039),3,Persistence,19.0,21.0
+2026-09-20 20:00:00,Mumbai (8039),3,Persistence,31.0,19.0
+2026-09-20 23:00:00,Mumbai (8039),3,Persistence,36.0,31.0
+2026-09-21 02:00:00,Mumbai (8039),3,Persistence,36.0,36.0
+2026-09-21 05:00:00,Mumbai (8039),3,Persistence,50.0,36.0
+2026-09-21 08:00:00,Mumbai (8039),3,Persistence,44.0,50.0
+2026-09-21 14:00:00,Mumbai (8039),3,Persistence,27.0,34.5
+2026-09-21 17:00:00,Mumbai (8039),3,Persistence,18.0,27.0
+2026-09-21 20:00:00,Mumbai (8039),3,Persistence,15.0,18.0
+2026-09-21 23:00:00,Mumbai (8039),3,Persistence,26.0,15.0
+2026-09-22 02:00:00,Mumbai (8039),3,Persistence,34.0,26.0
+2026-09-22 05:00:00,Mumbai (8039),3,Persistence,36.0,34.0
+2026-09-16 08:00:00,Mumbai (8039),6,Persistence,9.0,33.0
+2026-09-16 11:00:00,Mumbai (8039),6,Persistence,11.0,12.0
+2026-09-16 14:00:00,Mumbai (8039),6,Persistence,13.0,9.0
+2026-09-16 17:00:00,Mumbai (8039),6,Persistence,14.0,11.0
+2026-09-16 20:00:00,Mumbai (8039),6,Persistence,32.0,13.0
+2026-09-16 23:00:00,Mumbai (8039),6,Persistence,15.0,14.0
+2026-09-17 02:00:00,Mumbai (8039),6,Persistence,21.0,32.0
+2026-09-17 05:00:00,Mumbai (8039),6,Persistence,20.0,15.0
+2026-09-17 08:00:00,Mumbai (8039),6,Persistence,11.0,21.0
+2026-09-17 11:00:00,Mumbai (8039),6,Persistence,6.0,20.0
+2026-09-17 14:00:00,Mumbai (8039),6,Persistence,9.0,11.0
+2026-09-17 17:00:00,Mumbai (8039),6,Persistence,11.0,6.0
+2026-09-17 20:00:00,Mumbai (8039),6,Persistence,9.0,9.0
+2026-09-17 23:00:00,Mumbai (8039),6,Persistence,5.0,11.0
+2026-09-18 02:00:00,Mumbai (8039),6,Persistence,10.0,9.0
+2026-09-18 05:00:00,Mumbai (8039),6,Persistence,12.0,5.0
+2026-09-18 08:00:00,Mumbai (8039),6,Persistence,11.0,10.0
+2026-09-18 11:00:00,Mumbai (8039),6,Persistence,8.0,12.0
+2026-09-18 14:00:00,Mumbai (8039),6,Persistence,10.0,11.0
+2026-09-18 17:00:00,Mumbai (8039),6,Persistence,15.0,8.0
+2026-09-18 20:00:00,Mumbai (8039),6,Persistence,13.0,10.0
+2026-09-18 23:00:00,Mumbai (8039),6,Persistence,10.0,15.0
+2026-09-19 02:00:00,Mumbai (8039),6,Persistence,5.0,13.0
+2026-09-19 05:00:00,Mumbai (8039),6,Persistence,23.0,10.0
+2026-09-19 08:00:00,Mumbai (8039),6,Persistence,33.0,5.0
+2026-09-19 11:00:00,Mumbai (8039),6,Persistence,15.0,23.0
+2026-09-19 14:00:00,Mumbai (8039),6,Persistence,21.0,33.0
+2026-09-19 17:00:00,Mumbai (8039),6,Persistence,35.0,15.0
+2026-09-19 20:00:00,Mumbai (8039),6,Persistence,23.0,21.0
+2026-09-19 23:00:00,Mumbai (8039),6,Persistence,26.0,35.0
+2026-09-20 02:00:00,Mumbai (8039),6,Persistence,33.0,23.0
+2026-09-20 05:00:00,Mumbai (8039),6,Persistence,25.0,26.0
+2026-09-20 08:00:00,Mumbai (8039),6,Persistence,19.0,33.0
+2026-09-20 11:00:00,Mumbai (8039),6,Persistence,21.0,25.0
+2026-09-20 14:00:00,Mumbai (8039),6,Persistence,19.0,19.0
+2026-09-20 17:00:00,Mumbai (8039),6,Persistence,31.0,21.0
+2026-09-20 20:00:00,Mumbai (8039),6,Persistence,36.0,19.0
+2026-09-20 23:00:00,Mumbai (8039),6,Persistence,36.0,31.0
+2026-09-21 02:00:00,Mumbai (8039),6,Persistence,50.0,36.0
+2026-09-21 05:00:00,Mumbai (8039),6,Persistence,44.0,36.0
+2026-09-21 11:00:00,Mumbai (8039),6,Persistence,27.0,44.0
+2026-09-21 14:00:00,Mumbai (8039),6,Persistence,18.0,34.5
+2026-09-21 17:00:00,Mumbai (8039),6,Persistence,15.0,27.0
+2026-09-21 20:00:00,Mumbai (8039),6,Persistence,26.0,18.0
+2026-09-21 23:00:00,Mumbai (8039),6,Persistence,34.0,15.0
+2026-09-22 02:00:00,Mumbai (8039),6,Persistence,36.0,26.0
+2026-09-16 08:00:00,Mumbai (8039),12,Persistence,13.0,33.0
+2026-09-16 11:00:00,Mumbai (8039),12,Persistence,14.0,12.0
+2026-09-16 14:00:00,Mumbai (8039),12,Persistence,32.0,9.0
+2026-09-16 17:00:00,Mumbai (8039),12,Persistence,15.0,11.0
+2026-09-16 20:00:00,Mumbai (8039),12,Persistence,21.0,13.0
+2026-09-16 23:00:00,Mumbai (8039),12,Persistence,20.0,14.0
+2026-09-17 02:00:00,Mumbai (8039),12,Persistence,11.0,32.0
+2026-09-17 05:00:00,Mumbai (8039),12,Persistence,6.0,15.0
+2026-09-17 08:00:00,Mumbai (8039),12,Persistence,9.0,21.0
+2026-09-17 11:00:00,Mumbai (8039),12,Persistence,11.0,20.0
+2026-09-17 14:00:00,Mumbai (8039),12,Persistence,9.0,11.0
+2026-09-17 17:00:00,Mumbai (8039),12,Persistence,5.0,6.0
+2026-09-17 20:00:00,Mumbai (8039),12,Persistence,10.0,9.0
+2026-09-17 23:00:00,Mumbai (8039),12,Persistence,12.0,11.0
+2026-09-18 02:00:00,Mumbai (8039),12,Persistence,11.0,9.0
+2026-09-18 05:00:00,Mumbai (8039),12,Persistence,8.0,5.0
+2026-09-18 08:00:00,Mumbai (8039),12,Persistence,10.0,10.0
+2026-09-18 11:00:00,Mumbai (8039),12,Persistence,15.0,12.0
+2026-09-18 14:00:00,Mumbai (8039),12,Persistence,13.0,11.0
+2026-09-18 17:00:00,Mumbai (8039),12,Persistence,10.0,8.0
+2026-09-18 20:00:00,Mumbai (8039),12,Persistence,5.0,10.0
+2026-09-18 23:00:00,Mumbai (8039),12,Persistence,23.0,15.0
+2026-09-19 02:00:00,Mumbai (8039),12,Persistence,33.0,13.0
+2026-09-19 05:00:00,Mumbai (8039),12,Persistence,15.0,10.0
+2026-09-19 08:00:00,Mumbai (8039),12,Persistence,21.0,5.0
+2026-09-19 11:00:00,Mumbai (8039),12,Persistence,35.0,23.0
+2026-09-19 14:00:00,Mumbai (8039),12,Persistence,23.0,33.0
+2026-09-19 17:00:00,Mumbai (8039),12,Persistence,26.0,15.0
+2026-09-19 20:00:00,Mumbai (8039),12,Persistence,33.0,21.0
+2026-09-19 23:00:00,Mumbai (8039),12,Persistence,25.0,35.0
+2026-09-20 02:00:00,Mumbai (8039),12,Persistence,19.0,23.0
+2026-09-20 05:00:00,Mumbai (8039),12,Persistence,21.0,26.0
+2026-09-20 08:00:00,Mumbai (8039),12,Persistence,19.0,33.0
+2026-09-20 11:00:00,Mumbai (8039),12,Persistence,31.0,25.0
+2026-09-20 14:00:00,Mumbai (8039),12,Persistence,36.0,19.0
+2026-09-20 17:00:00,Mumbai (8039),12,Persistence,36.0,21.0
+2026-09-20 20:00:00,Mumbai (8039),12,Persistence,50.0,19.0
+2026-09-20 23:00:00,Mumbai (8039),12,Persistence,44.0,31.0
+2026-09-21 05:00:00,Mumbai (8039),12,Persistence,27.0,36.0
+2026-09-21 08:00:00,Mumbai (8039),12,Persistence,18.0,50.0
+2026-09-21 11:00:00,Mumbai (8039),12,Persistence,15.0,44.0
+2026-09-21 14:00:00,Mumbai (8039),12,Persistence,26.0,34.5
+2026-09-21 17:00:00,Mumbai (8039),12,Persistence,34.0,27.0
+2026-09-21 20:00:00,Mumbai (8039),12,Persistence,36.0,18.0
+2026-09-16 08:00:00,Mumbai (8039),24,Persistence,21.0,33.0
+2026-09-16 11:00:00,Mumbai (8039),24,Persistence,20.0,12.0
+2026-09-16 14:00:00,Mumbai (8039),24,Persistence,11.0,9.0
+2026-09-16 17:00:00,Mumbai (8039),24,Persistence,6.0,11.0
+2026-09-16 20:00:00,Mumbai (8039),24,Persistence,9.0,13.0
+2026-09-16 23:00:00,Mumbai (8039),24,Persistence,11.0,14.0
+2026-09-17 02:00:00,Mumbai (8039),24,Persistence,9.0,32.0
+2026-09-17 05:00:00,Mumbai (8039),24,Persistence,5.0,15.0
+2026-09-17 08:00:00,Mumbai (8039),24,Persistence,10.0,21.0
+2026-09-17 11:00:00,Mumbai (8039),24,Persistence,12.0,20.0
+2026-09-17 14:00:00,Mumbai (8039),24,Persistence,11.0,11.0
+2026-09-17 17:00:00,Mumbai (8039),24,Persistence,8.0,6.0
+2026-09-17 20:00:00,Mumbai (8039),24,Persistence,10.0,9.0
+2026-09-17 23:00:00,Mumbai (8039),24,Persistence,15.0,11.0
+2026-09-18 02:00:00,Mumbai (8039),24,Persistence,13.0,9.0
+2026-09-18 05:00:00,Mumbai (8039),24,Persistence,10.0,5.0
+2026-09-18 08:00:00,Mumbai (8039),24,Persistence,5.0,10.0
+2026-09-18 11:00:00,Mumbai (8039),24,Persistence,23.0,12.0
+2026-09-18 14:00:00,Mumbai (8039),24,Persistence,33.0,11.0
+2026-09-18 17:00:00,Mumbai (8039),24,Persistence,15.0,8.0
+2026-09-18 20:00:00,Mumbai (8039),24,Persistence,21.0,10.0
+2026-09-18 23:00:00,Mumbai (8039),24,Persistence,35.0,15.0
+2026-09-19 02:00:00,Mumbai (8039),24,Persistence,23.0,13.0
+2026-09-19 05:00:00,Mumbai (8039),24,Persistence,26.0,10.0
+2026-09-19 08:00:00,Mumbai (8039),24,Persistence,33.0,5.0
+2026-09-19 11:00:00,Mumbai (8039),24,Persistence,25.0,23.0
+2026-09-19 14:00:00,Mumbai (8039),24,Persistence,19.0,33.0
+2026-09-19 17:00:00,Mumbai (8039),24,Persistence,21.0,15.0
+2026-09-19 20:00:00,Mumbai (8039),24,Persistence,19.0,21.0
+2026-09-19 23:00:00,Mumbai (8039),24,Persistence,31.0,35.0
+2026-09-20 02:00:00,Mumbai (8039),24,Persistence,36.0,23.0
+2026-09-20 05:00:00,Mumbai (8039),24,Persistence,36.0,26.0
+2026-09-20 08:00:00,Mumbai (8039),24,Persistence,50.0,33.0
+2026-09-20 11:00:00,Mumbai (8039),24,Persistence,44.0,25.0
+2026-09-20 17:00:00,Mumbai (8039),24,Persistence,27.0,21.0
+2026-09-20 20:00:00,Mumbai (8039),24,Persistence,18.0,19.0
+2026-09-20 23:00:00,Mumbai (8039),24,Persistence,15.0,31.0
+2026-09-21 02:00:00,Mumbai (8039),24,Persistence,26.0,36.0
+2026-09-21 05:00:00,Mumbai (8039),24,Persistence,34.0,36.0
+2026-09-21 08:00:00,Mumbai (8039),24,Persistence,36.0,50.0
+2026-09-16 08:00:00,Mumbai (8039),1,Seasonal naive,47.0,26.0
+2026-09-16 11:00:00,Mumbai (8039),1,Seasonal naive,8.0,16.0
+2026-09-16 14:00:00,Mumbai (8039),1,Seasonal naive,6.0,14.0
+2026-09-16 17:00:00,Mumbai (8039),1,Seasonal naive,10.0,14.0
+2026-09-16 20:00:00,Mumbai (8039),1,Seasonal naive,12.0,14.0
+2026-09-16 23:00:00,Mumbai (8039),1,Seasonal naive,14.0,17.0
+2026-09-17 02:00:00,Mumbai (8039),1,Seasonal naive,33.0,27.0
+2026-09-17 05:00:00,Mumbai (8039),1,Seasonal naive,14.0,18.0
+2026-09-17 08:00:00,Mumbai (8039),1,Seasonal naive,30.0,47.0
+2026-09-17 11:00:00,Mumbai (8039),1,Seasonal naive,16.0,8.0
+2026-09-17 14:00:00,Mumbai (8039),1,Seasonal naive,9.0,6.0
+2026-09-17 17:00:00,Mumbai (8039),1,Seasonal naive,7.0,10.0
+2026-09-17 20:00:00,Mumbai (8039),1,Seasonal naive,13.0,12.0
+2026-09-17 23:00:00,Mumbai (8039),1,Seasonal naive,17.0,14.0
+2026-09-18 02:00:00,Mumbai (8039),1,Seasonal naive,7.0,33.0
+2026-09-18 05:00:00,Mumbai (8039),1,Seasonal naive,4.0,14.0
+2026-09-18 08:00:00,Mumbai (8039),1,Seasonal naive,14.0,30.0
+2026-09-18 11:00:00,Mumbai (8039),1,Seasonal naive,12.0,16.0
+2026-09-18 14:00:00,Mumbai (8039),1,Seasonal naive,11.0,9.0
+2026-09-18 17:00:00,Mumbai (8039),1,Seasonal naive,18.0,7.0
+2026-09-18 20:00:00,Mumbai (8039),1,Seasonal naive,11.0,13.0
+2026-09-18 23:00:00,Mumbai (8039),1,Seasonal naive,19.0,17.0
+2026-09-19 02:00:00,Mumbai (8039),1,Seasonal naive,11.0,7.0
+2026-09-19 05:00:00,Mumbai (8039),1,Seasonal naive,9.0,4.0
+2026-09-19 08:00:00,Mumbai (8039),1,Seasonal naive,12.0,14.0
+2026-09-19 11:00:00,Mumbai (8039),1,Seasonal naive,24.0,12.0
+2026-09-19 14:00:00,Mumbai (8039),1,Seasonal naive,14.0,11.0
+2026-09-19 17:00:00,Mumbai (8039),1,Seasonal naive,27.0,18.0
+2026-09-19 20:00:00,Mumbai (8039),1,Seasonal naive,23.0,11.0
+2026-09-19 23:00:00,Mumbai (8039),1,Seasonal naive,21.0,19.0
+2026-09-20 02:00:00,Mumbai (8039),1,Seasonal naive,24.0,11.0
+2026-09-20 05:00:00,Mumbai (8039),1,Seasonal naive,27.0,9.0
+2026-09-20 08:00:00,Mumbai (8039),1,Seasonal naive,33.0,12.0
+2026-09-20 11:00:00,Mumbai (8039),1,Seasonal naive,25.0,24.0
+2026-09-20 14:00:00,Mumbai (8039),1,Seasonal naive,19.0,14.0
+2026-09-20 17:00:00,Mumbai (8039),1,Seasonal naive,12.0,27.0
+2026-09-20 20:00:00,Mumbai (8039),1,Seasonal naive,26.0,23.0
+2026-09-20 23:00:00,Mumbai (8039),1,Seasonal naive,27.0,21.0
+2026-09-21 02:00:00,Mumbai (8039),1,Seasonal naive,30.0,24.0
+2026-09-21 05:00:00,Mumbai (8039),1,Seasonal naive,39.0,27.0
+2026-09-21 08:00:00,Mumbai (8039),1,Seasonal naive,46.0,33.0
+2026-09-21 11:00:00,Mumbai (8039),1,Seasonal naive,44.0,25.0
+2026-09-21 17:00:00,Mumbai (8039),1,Seasonal naive,21.0,12.0
+2026-09-21 20:00:00,Mumbai (8039),1,Seasonal naive,3.0,26.0
+2026-09-21 23:00:00,Mumbai (8039),1,Seasonal naive,21.0,27.0
+2026-09-22 02:00:00,Mumbai (8039),1,Seasonal naive,34.0,30.0
+2026-09-22 05:00:00,Mumbai (8039),1,Seasonal naive,38.0,39.0
+2026-09-22 08:00:00,Mumbai (8039),1,Seasonal naive,39.0,46.0
+2026-09-16 08:00:00,Mumbai (8039),3,Seasonal naive,12.0,10.0
+2026-09-16 11:00:00,Mumbai (8039),3,Seasonal naive,9.0,10.0
+2026-09-16 14:00:00,Mumbai (8039),3,Seasonal naive,11.0,16.0
+2026-09-16 17:00:00,Mumbai (8039),3,Seasonal naive,13.0,13.0
+2026-09-16 20:00:00,Mumbai (8039),3,Seasonal naive,14.0,14.0
+2026-09-16 23:00:00,Mumbai (8039),3,Seasonal naive,32.0,19.0
+2026-09-17 02:00:00,Mumbai (8039),3,Seasonal naive,15.0,17.0
+2026-09-17 05:00:00,Mumbai (8039),3,Seasonal naive,21.0,33.0
+2026-09-17 08:00:00,Mumbai (8039),3,Seasonal naive,20.0,12.0
+2026-09-17 11:00:00,Mumbai (8039),3,Seasonal naive,11.0,9.0
+2026-09-17 14:00:00,Mumbai (8039),3,Seasonal naive,6.0,11.0
+2026-09-17 17:00:00,Mumbai (8039),3,Seasonal naive,9.0,13.0
+2026-09-17 20:00:00,Mumbai (8039),3,Seasonal naive,11.0,14.0
+2026-09-17 23:00:00,Mumbai (8039),3,Seasonal naive,9.0,32.0
+2026-09-18 02:00:00,Mumbai (8039),3,Seasonal naive,5.0,15.0
+2026-09-18 05:00:00,Mumbai (8039),3,Seasonal naive,10.0,21.0
+2026-09-18 08:00:00,Mumbai (8039),3,Seasonal naive,12.0,20.0
+2026-09-18 11:00:00,Mumbai (8039),3,Seasonal naive,11.0,11.0
+2026-09-18 14:00:00,Mumbai (8039),3,Seasonal naive,8.0,6.0
+2026-09-18 17:00:00,Mumbai (8039),3,Seasonal naive,10.0,9.0
+2026-09-18 20:00:00,Mumbai (8039),3,Seasonal naive,15.0,11.0
+2026-09-18 23:00:00,Mumbai (8039),3,Seasonal naive,13.0,9.0
+2026-09-19 02:00:00,Mumbai (8039),3,Seasonal naive,10.0,5.0
+2026-09-19 05:00:00,Mumbai (8039),3,Seasonal naive,5.0,10.0
+2026-09-19 08:00:00,Mumbai (8039),3,Seasonal naive,23.0,12.0
+2026-09-19 11:00:00,Mumbai (8039),3,Seasonal naive,33.0,11.0
+2026-09-19 14:00:00,Mumbai (8039),3,Seasonal naive,15.0,8.0
+2026-09-19 17:00:00,Mumbai (8039),3,Seasonal naive,21.0,10.0
+2026-09-19 20:00:00,Mumbai (8039),3,Seasonal naive,35.0,15.0
+2026-09-19 23:00:00,Mumbai (8039),3,Seasonal naive,23.0,13.0
+2026-09-20 02:00:00,Mumbai (8039),3,Seasonal naive,26.0,10.0
+2026-09-20 05:00:00,Mumbai (8039),3,Seasonal naive,33.0,5.0
+2026-09-20 08:00:00,Mumbai (8039),3,Seasonal naive,25.0,23.0
+2026-09-20 11:00:00,Mumbai (8039),3,Seasonal naive,19.0,33.0
+2026-09-20 14:00:00,Mumbai (8039),3,Seasonal naive,21.0,15.0
+2026-09-20 17:00:00,Mumbai (8039),3,Seasonal naive,19.0,21.0
+2026-09-20 20:00:00,Mumbai (8039),3,Seasonal naive,31.0,35.0
+2026-09-20 23:00:00,Mumbai (8039),3,Seasonal naive,36.0,23.0
+2026-09-21 02:00:00,Mumbai (8039),3,Seasonal naive,36.0,26.0
+2026-09-21 05:00:00,Mumbai (8039),3,Seasonal naive,50.0,33.0
+2026-09-21 08:00:00,Mumbai (8039),3,Seasonal naive,44.0,25.0
+2026-09-21 14:00:00,Mumbai (8039),3,Seasonal naive,27.0,21.0
+2026-09-21 17:00:00,Mumbai (8039),3,Seasonal naive,18.0,19.0
+2026-09-21 20:00:00,Mumbai (8039),3,Seasonal naive,15.0,31.0
+2026-09-21 23:00:00,Mumbai (8039),3,Seasonal naive,26.0,36.0
+2026-09-22 02:00:00,Mumbai (8039),3,Seasonal naive,34.0,36.0
+2026-09-22 05:00:00,Mumbai (8039),3,Seasonal naive,36.0,50.0
+2026-09-16 08:00:00,Mumbai (8039),6,Seasonal naive,9.0,10.0
+2026-09-16 11:00:00,Mumbai (8039),6,Seasonal naive,11.0,16.0
+2026-09-16 14:00:00,Mumbai (8039),6,Seasonal naive,13.0,13.0
+2026-09-16 17:00:00,Mumbai (8039),6,Seasonal naive,14.0,14.0
+2026-09-16 20:00:00,Mumbai (8039),6,Seasonal naive,32.0,19.0
+2026-09-16 23:00:00,Mumbai (8039),6,Seasonal naive,15.0,17.0
+2026-09-17 02:00:00,Mumbai (8039),6,Seasonal naive,21.0,33.0
+2026-09-17 05:00:00,Mumbai (8039),6,Seasonal naive,20.0,12.0
+2026-09-17 08:00:00,Mumbai (8039),6,Seasonal naive,11.0,9.0
+2026-09-17 11:00:00,Mumbai (8039),6,Seasonal naive,6.0,11.0
+2026-09-17 14:00:00,Mumbai (8039),6,Seasonal naive,9.0,13.0
+2026-09-17 17:00:00,Mumbai (8039),6,Seasonal naive,11.0,14.0
+2026-09-17 20:00:00,Mumbai (8039),6,Seasonal naive,9.0,32.0
+2026-09-17 23:00:00,Mumbai (8039),6,Seasonal naive,5.0,15.0
+2026-09-18 02:00:00,Mumbai (8039),6,Seasonal naive,10.0,21.0
+2026-09-18 05:00:00,Mumbai (8039),6,Seasonal naive,12.0,20.0
+2026-09-18 08:00:00,Mumbai (8039),6,Seasonal naive,11.0,11.0
+2026-09-18 11:00:00,Mumbai (8039),6,Seasonal naive,8.0,6.0
+2026-09-18 14:00:00,Mumbai (8039),6,Seasonal naive,10.0,9.0
+2026-09-18 17:00:00,Mumbai (8039),6,Seasonal naive,15.0,11.0
+2026-09-18 20:00:00,Mumbai (8039),6,Seasonal naive,13.0,9.0
+2026-09-18 23:00:00,Mumbai (8039),6,Seasonal naive,10.0,5.0
+2026-09-19 02:00:00,Mumbai (8039),6,Seasonal naive,5.0,10.0
+2026-09-19 05:00:00,Mumbai (8039),6,Seasonal naive,23.0,12.0
+2026-09-19 08:00:00,Mumbai (8039),6,Seasonal naive,33.0,11.0
+2026-09-19 11:00:00,Mumbai (8039),6,Seasonal naive,15.0,8.0
+2026-09-19 14:00:00,Mumbai (8039),6,Seasonal naive,21.0,10.0
+2026-09-19 17:00:00,Mumbai (8039),6,Seasonal naive,35.0,15.0
+2026-09-19 20:00:00,Mumbai (8039),6,Seasonal naive,23.0,13.0
+2026-09-19 23:00:00,Mumbai (8039),6,Seasonal naive,26.0,10.0
+2026-09-20 02:00:00,Mumbai (8039),6,Seasonal naive,33.0,5.0
+2026-09-20 05:00:00,Mumbai (8039),6,Seasonal naive,25.0,23.0
+2026-09-20 08:00:00,Mumbai (8039),6,Seasonal naive,19.0,33.0
+2026-09-20 11:00:00,Mumbai (8039),6,Seasonal naive,21.0,15.0
+2026-09-20 14:00:00,Mumbai (8039),6,Seasonal naive,19.0,21.0
+2026-09-20 17:00:00,Mumbai (8039),6,Seasonal naive,31.0,35.0
+2026-09-20 20:00:00,Mumbai (8039),6,Seasonal naive,36.0,23.0
+2026-09-20 23:00:00,Mumbai (8039),6,Seasonal naive,36.0,26.0
+2026-09-21 02:00:00,Mumbai (8039),6,Seasonal naive,50.0,33.0
+2026-09-21 05:00:00,Mumbai (8039),6,Seasonal naive,44.0,25.0
+2026-09-21 11:00:00,Mumbai (8039),6,Seasonal naive,27.0,21.0
+2026-09-21 14:00:00,Mumbai (8039),6,Seasonal naive,18.0,19.0
+2026-09-21 17:00:00,Mumbai (8039),6,Seasonal naive,15.0,31.0
+2026-09-21 20:00:00,Mumbai (8039),6,Seasonal naive,26.0,36.0
+2026-09-21 23:00:00,Mumbai (8039),6,Seasonal naive,34.0,36.0
+2026-09-22 02:00:00,Mumbai (8039),6,Seasonal naive,36.0,50.0
+2026-09-16 08:00:00,Mumbai (8039),12,Seasonal naive,13.0,13.0
+2026-09-16 11:00:00,Mumbai (8039),12,Seasonal naive,14.0,14.0
+2026-09-16 14:00:00,Mumbai (8039),12,Seasonal naive,32.0,19.0
+2026-09-16 17:00:00,Mumbai (8039),12,Seasonal naive,15.0,17.0
+2026-09-16 20:00:00,Mumbai (8039),12,Seasonal naive,21.0,33.0
+2026-09-16 23:00:00,Mumbai (8039),12,Seasonal naive,20.0,12.0
+2026-09-17 02:00:00,Mumbai (8039),12,Seasonal naive,11.0,9.0
+2026-09-17 05:00:00,Mumbai (8039),12,Seasonal naive,6.0,11.0
+2026-09-17 08:00:00,Mumbai (8039),12,Seasonal naive,9.0,13.0
+2026-09-17 11:00:00,Mumbai (8039),12,Seasonal naive,11.0,14.0
+2026-09-17 14:00:00,Mumbai (8039),12,Seasonal naive,9.0,32.0
+2026-09-17 17:00:00,Mumbai (8039),12,Seasonal naive,5.0,15.0
+2026-09-17 20:00:00,Mumbai (8039),12,Seasonal naive,10.0,21.0
+2026-09-17 23:00:00,Mumbai (8039),12,Seasonal naive,12.0,20.0
+2026-09-18 02:00:00,Mumbai (8039),12,Seasonal naive,11.0,11.0
+2026-09-18 05:00:00,Mumbai (8039),12,Seasonal naive,8.0,6.0
+2026-09-18 08:00:00,Mumbai (8039),12,Seasonal naive,10.0,9.0
+2026-09-18 11:00:00,Mumbai (8039),12,Seasonal naive,15.0,11.0
+2026-09-18 14:00:00,Mumbai (8039),12,Seasonal naive,13.0,9.0
+2026-09-18 17:00:00,Mumbai (8039),12,Seasonal naive,10.0,5.0
+2026-09-18 20:00:00,Mumbai (8039),12,Seasonal naive,5.0,10.0
+2026-09-18 23:00:00,Mumbai (8039),12,Seasonal naive,23.0,12.0
+2026-09-19 02:00:00,Mumbai (8039),12,Seasonal naive,33.0,11.0
+2026-09-19 05:00:00,Mumbai (8039),12,Seasonal naive,15.0,8.0
+2026-09-19 08:00:00,Mumbai (8039),12,Seasonal naive,21.0,10.0
+2026-09-19 11:00:00,Mumbai (8039),12,Seasonal naive,35.0,15.0
+2026-09-19 14:00:00,Mumbai (8039),12,Seasonal naive,23.0,13.0
+2026-09-19 17:00:00,Mumbai (8039),12,Seasonal naive,26.0,10.0
+2026-09-19 20:00:00,Mumbai (8039),12,Seasonal naive,33.0,5.0
+2026-09-19 23:00:00,Mumbai (8039),12,Seasonal naive,25.0,23.0
+2026-09-20 02:00:00,Mumbai (8039),12,Seasonal naive,19.0,33.0
+2026-09-20 05:00:00,Mumbai (8039),12,Seasonal naive,21.0,15.0
+2026-09-20 08:00:00,Mumbai (8039),12,Seasonal naive,19.0,21.0
+2026-09-20 11:00:00,Mumbai (8039),12,Seasonal naive,31.0,35.0
+2026-09-20 14:00:00,Mumbai (8039),12,Seasonal naive,36.0,23.0
+2026-09-20 17:00:00,Mumbai (8039),12,Seasonal naive,36.0,26.0
+2026-09-20 20:00:00,Mumbai (8039),12,Seasonal naive,50.0,33.0
+2026-09-20 23:00:00,Mumbai (8039),12,Seasonal naive,44.0,25.0
+2026-09-21 05:00:00,Mumbai (8039),12,Seasonal naive,27.0,21.0
+2026-09-21 08:00:00,Mumbai (8039),12,Seasonal naive,18.0,19.0
+2026-09-21 11:00:00,Mumbai (8039),12,Seasonal naive,15.0,31.0
+2026-09-21 14:00:00,Mumbai (8039),12,Seasonal naive,26.0,36.0
+2026-09-21 17:00:00,Mumbai (8039),12,Seasonal naive,34.0,36.0
+2026-09-21 20:00:00,Mumbai (8039),12,Seasonal naive,36.0,50.0
+2026-09-16 08:00:00,Mumbai (8039),24,Seasonal naive,21.0,33.0
+2026-09-16 11:00:00,Mumbai (8039),24,Seasonal naive,20.0,12.0
+2026-09-16 14:00:00,Mumbai (8039),24,Seasonal naive,11.0,9.0
+2026-09-16 17:00:00,Mumbai (8039),24,Seasonal naive,6.0,11.0
+2026-09-16 20:00:00,Mumbai (8039),24,Seasonal naive,9.0,13.0
+2026-09-16 23:00:00,Mumbai (8039),24,Seasonal naive,11.0,14.0
+2026-09-17 02:00:00,Mumbai (8039),24,Seasonal naive,9.0,32.0
+2026-09-17 05:00:00,Mumbai (8039),24,Seasonal naive,5.0,15.0
+2026-09-17 08:00:00,Mumbai (8039),24,Seasonal naive,10.0,21.0
+2026-09-17 11:00:00,Mumbai (8039),24,Seasonal naive,12.0,20.0
+2026-09-17 14:00:00,Mumbai (8039),24,Seasonal naive,11.0,11.0
+2026-09-17 17:00:00,Mumbai (8039),24,Seasonal naive,8.0,6.0
+2026-09-17 20:00:00,Mumbai (8039),24,Seasonal naive,10.0,9.0
+2026-09-17 23:00:00,Mumbai (8039),24,Seasonal naive,15.0,11.0
+2026-09-18 02:00:00,Mumbai (8039),24,Seasonal naive,13.0,9.0
+2026-09-18 05:00:00,Mumbai (8039),24,Seasonal naive,10.0,5.0
+2026-09-18 08:00:00,Mumbai (8039),24,Seasonal naive,5.0,10.0
+2026-09-18 11:00:00,Mumbai (8039),24,Seasonal naive,23.0,12.0
+2026-09-18 14:00:00,Mumbai (8039),24,Seasonal naive,33.0,11.0
+2026-09-18 17:00:00,Mumbai (8039),24,Seasonal naive,15.0,8.0
+2026-09-18 20:00:00,Mumbai (8039),24,Seasonal naive,21.0,10.0
+2026-09-18 23:00:00,Mumbai (8039),24,Seasonal naive,35.0,15.0
+2026-09-19 02:00:00,Mumbai (8039),24,Seasonal naive,23.0,13.0
+2026-09-19 05:00:00,Mumbai (8039),24,Seasonal naive,26.0,10.0
+2026-09-19 08:00:00,Mumbai (8039),24,Seasonal naive,33.0,5.0
+2026-09-19 11:00:00,Mumbai (8039),24,Seasonal naive,25.0,23.0
+2026-09-19 14:00:00,Mumbai (8039),24,Seasonal naive,19.0,33.0
+2026-09-19 17:00:00,Mumbai (8039),24,Seasonal naive,21.0,15.0
+2026-09-19 20:00:00,Mumbai (8039),24,Seasonal naive,19.0,21.0
+2026-09-19 23:00:00,Mumbai (8039),24,Seasonal naive,31.0,35.0
+2026-09-20 02:00:00,Mumbai (8039),24,Seasonal naive,36.0,23.0
+2026-09-20 05:00:00,Mumbai (8039),24,Seasonal naive,36.0,26.0
+2026-09-20 08:00:00,Mumbai (8039),24,Seasonal naive,50.0,33.0
+2026-09-20 11:00:00,Mumbai (8039),24,Seasonal naive,44.0,25.0
+2026-09-20 17:00:00,Mumbai (8039),24,Seasonal naive,27.0,21.0
+2026-09-20 20:00:00,Mumbai (8039),24,Seasonal naive,18.0,19.0
+2026-09-20 23:00:00,Mumbai (8039),24,Seasonal naive,15.0,31.0
+2026-09-21 02:00:00,Mumbai (8039),24,Seasonal naive,26.0,36.0
+2026-09-21 05:00:00,Mumbai (8039),24,Seasonal naive,34.0,36.0
+2026-09-21 08:00:00,Mumbai (8039),24,Seasonal naive,36.0,50.0
+2026-09-16 08:00:00,Mumbai (8039),1,Ridge regression,47.0,25.59836402825398
+2026-09-16 11:00:00,Mumbai (8039),1,Ridge regression,8.0,17.086115339967883
+2026-09-16 14:00:00,Mumbai (8039),1,Ridge regression,6.0,12.847975186388274
+2026-09-16 17:00:00,Mumbai (8039),1,Ridge regression,10.0,10.194439292161523
+2026-09-16 20:00:00,Mumbai (8039),1,Ridge regression,12.0,11.597609299451388
+2026-09-16 23:00:00,Mumbai (8039),1,Ridge regression,14.0,13.148092067127859
+2026-09-17 02:00:00,Mumbai (8039),1,Ridge regression,33.0,23.266728114400813
+2026-09-17 05:00:00,Mumbai (8039),1,Ridge regression,14.0,15.37105366795663
+2026-09-17 08:00:00,Mumbai (8039),1,Ridge regression,30.0,20.051809698202018
+2026-09-17 11:00:00,Mumbai (8039),1,Ridge regression,16.0,18.56306865264619
+2026-09-17 14:00:00,Mumbai (8039),1,Ridge regression,9.0,13.677902712159273
+2026-09-17 17:00:00,Mumbai (8039),1,Ridge regression,7.0,8.908902964984351
+2026-09-17 20:00:00,Mumbai (8039),1,Ridge regression,13.0,9.527019200168986
+2026-09-17 23:00:00,Mumbai (8039),1,Ridge regression,17.0,11.299259446339443
+2026-09-18 02:00:00,Mumbai (8039),1,Ridge regression,7.0,11.78946745360782
+2026-09-18 05:00:00,Mumbai (8039),1,Ridge regression,4.0,9.000585914467196
+2026-09-18 08:00:00,Mumbai (8039),1,Ridge regression,14.0,12.129155478896715
+2026-09-18 11:00:00,Mumbai (8039),1,Ridge regression,12.0,12.6534901607125
+2026-09-18 14:00:00,Mumbai (8039),1,Ridge regression,11.0,12.211465552425649
+2026-09-18 17:00:00,Mumbai (8039),1,Ridge regression,18.0,10.548111046414803
+2026-09-18 20:00:00,Mumbai (8039),1,Ridge regression,11.0,11.084543811764899
+2026-09-18 23:00:00,Mumbai (8039),1,Ridge regression,19.0,14.653126205317868
+2026-09-19 02:00:00,Mumbai (8039),1,Ridge regression,11.0,13.643546368756073
+2026-09-19 05:00:00,Mumbai (8039),1,Ridge regression,9.0,10.720858070203873
+2026-09-19 08:00:00,Mumbai (8039),1,Ridge regression,12.0,8.971078221550822
+2026-09-19 11:00:00,Mumbai (8039),1,Ridge regression,24.0,18.5569236248606
+2026-09-19 14:00:00,Mumbai (8039),1,Ridge regression,14.0,24.656581388400454
+2026-09-19 17:00:00,Mumbai (8039),1,Ridge regression,27.0,13.775469305301566
+2026-09-19 20:00:00,Mumbai (8039),1,Ridge regression,23.0,19.0416734127756
+2026-09-19 23:00:00,Mumbai (8039),1,Ridge regression,21.0,29.698650396182813
+2026-09-20 02:00:00,Mumbai (8039),1,Ridge regression,24.0,20.52075626457007
+2026-09-20 05:00:00,Mumbai (8039),1,Ridge regression,27.0,22.05741151762613
+2026-09-20 08:00:00,Mumbai (8039),1,Ridge regression,33.0,29.558883186728366
+2026-09-20 11:00:00,Mumbai (8039),1,Ridge regression,25.0,24.168717792696942
+2026-09-20 14:00:00,Mumbai (8039),1,Ridge regression,19.0,19.933759011529112
+2026-09-20 17:00:00,Mumbai (8039),1,Ridge regression,12.0,22.938529671648897
+2026-09-20 20:00:00,Mumbai (8039),1,Ridge regression,26.0,19.00974645319547
+2026-09-20 23:00:00,Mumbai (8039),1,Ridge regression,27.0,27.147461737662407
+2026-09-21 02:00:00,Mumbai (8039),1,Ridge regression,30.0,31.97633909049071
+2026-09-21 05:00:00,Mumbai (8039),1,Ridge regression,39.0,30.345129851796532
+2026-09-21 08:00:00,Mumbai (8039),1,Ridge regression,46.0,39.02825651967447
+2026-09-21 11:00:00,Mumbai (8039),1,Ridge regression,44.0,37.9231484997098
+2026-09-21 17:00:00,Mumbai (8039),1,Ridge regression,21.0,27.26803858616245
+2026-09-21 20:00:00,Mumbai (8039),1,Ridge regression,3.0,20.71971263533011
+2026-09-21 23:00:00,Mumbai (8039),1,Ridge regression,21.0,18.52870749790784
+2026-09-22 02:00:00,Mumbai (8039),1,Ridge regression,34.0,22.151569497508767
+2026-09-22 05:00:00,Mumbai (8039),1,Ridge regression,38.0,31.815888221208805
+2026-09-22 08:00:00,Mumbai (8039),1,Ridge regression,39.0,34.888890511074564
+2026-09-16 08:00:00,Mumbai (8039),3,Ridge regression,12.0,20.613517568870627
+2026-09-16 11:00:00,Mumbai (8039),3,Ridge regression,9.0,16.347719502839137
+2026-09-16 14:00:00,Mumbai (8039),3,Ridge regression,11.0,10.152124931912253
+2026-09-16 17:00:00,Mumbai (8039),3,Ridge regression,13.0,11.49504647283239
+2026-09-16 20:00:00,Mumbai (8039),3,Ridge regression,14.0,11.141674213164581
+2026-09-16 23:00:00,Mumbai (8039),3,Ridge regression,32.0,13.613606382456888
+2026-09-17 02:00:00,Mumbai (8039),3,Ridge regression,15.0,19.7025007761673
+2026-09-17 05:00:00,Mumbai (8039),3,Ridge regression,21.0,15.856308625556329
+2026-09-17 08:00:00,Mumbai (8039),3,Ridge regression,20.0,16.431798500475445
+2026-09-17 11:00:00,Mumbai (8039),3,Ridge regression,11.0,16.719803783670883
+2026-09-17 14:00:00,Mumbai (8039),3,Ridge regression,6.0,12.494887631018043
+2026-09-17 17:00:00,Mumbai (8039),3,Ridge regression,9.0,10.824958762942678
+2026-09-17 20:00:00,Mumbai (8039),3,Ridge regression,11.0,10.121731981516694
+2026-09-17 23:00:00,Mumbai (8039),3,Ridge regression,9.0,12.229535036145322
+2026-09-18 02:00:00,Mumbai (8039),3,Ridge regression,5.0,12.830797252812175
+2026-09-18 05:00:00,Mumbai (8039),3,Ridge regression,10.0,10.17069270095917
+2026-09-18 08:00:00,Mumbai (8039),3,Ridge regression,12.0,12.634424359061258
+2026-09-18 11:00:00,Mumbai (8039),3,Ridge regression,11.0,13.263289456722276
+2026-09-18 14:00:00,Mumbai (8039),3,Ridge regression,8.0,12.152263940470696
+2026-09-18 17:00:00,Mumbai (8039),3,Ridge regression,10.0,11.65582000977995
+2026-09-18 20:00:00,Mumbai (8039),3,Ridge regression,15.0,11.288743077442117
+2026-09-18 23:00:00,Mumbai (8039),3,Ridge regression,13.0,13.332222993961357
+2026-09-19 02:00:00,Mumbai (8039),3,Ridge regression,10.0,13.435035385994947
+2026-09-19 05:00:00,Mumbai (8039),3,Ridge regression,5.0,10.669962625010074
+2026-09-19 08:00:00,Mumbai (8039),3,Ridge regression,23.0,10.804203527137997
+2026-09-19 11:00:00,Mumbai (8039),3,Ridge regression,33.0,15.060411016708066
+2026-09-19 14:00:00,Mumbai (8039),3,Ridge regression,15.0,20.251596388777177
+2026-09-19 17:00:00,Mumbai (8039),3,Ridge regression,21.0,15.527166013631415
+2026-09-19 20:00:00,Mumbai (8039),3,Ridge regression,35.0,16.78208188840371
+2026-09-19 23:00:00,Mumbai (8039),3,Ridge regression,23.0,23.8055266882983
+2026-09-20 02:00:00,Mumbai (8039),3,Ridge regression,26.0,20.50869955947649
+2026-09-20 05:00:00,Mumbai (8039),3,Ridge regression,33.0,19.479106676733362
+2026-09-20 08:00:00,Mumbai (8039),3,Ridge regression,25.0,26.16729924244821
+2026-09-20 11:00:00,Mumbai (8039),3,Ridge regression,19.0,23.426431853170094
+2026-09-20 14:00:00,Mumbai (8039),3,Ridge regression,21.0,19.604820437087117
+2026-09-20 17:00:00,Mumbai (8039),3,Ridge regression,19.0,22.84211301590455
+2026-09-20 20:00:00,Mumbai (8039),3,Ridge regression,31.0,20.42113761045471
+2026-09-20 23:00:00,Mumbai (8039),3,Ridge regression,36.0,23.872044063295647
+2026-09-21 02:00:00,Mumbai (8039),3,Ridge regression,36.0,28.957727954262673
+2026-09-21 05:00:00,Mumbai (8039),3,Ridge regression,50.0,27.247782915208468
+2026-09-21 08:00:00,Mumbai (8039),3,Ridge regression,44.0,31.465539134611614
+2026-09-21 14:00:00,Mumbai (8039),3,Ridge regression,27.0,27.03075622114337
+2026-09-21 17:00:00,Mumbai (8039),3,Ridge regression,18.0,24.34489206689221
+2026-09-21 20:00:00,Mumbai (8039),3,Ridge regression,15.0,21.68527821459005
+2026-09-21 23:00:00,Mumbai (8039),3,Ridge regression,26.0,20.3122142454168
+2026-09-22 02:00:00,Mumbai (8039),3,Ridge regression,34.0,22.74996791999667
+2026-09-22 05:00:00,Mumbai (8039),3,Ridge regression,36.0,28.64386606110091
+2026-09-16 08:00:00,Mumbai (8039),6,Ridge regression,9.0,18.250908708234935
+2026-09-16 11:00:00,Mumbai (8039),6,Ridge regression,11.0,12.746800947474057
+2026-09-16 14:00:00,Mumbai (8039),6,Ridge regression,13.0,10.548003027868141
+2026-09-16 17:00:00,Mumbai (8039),6,Ridge regression,14.0,13.486024589749274
+2026-09-16 20:00:00,Mumbai (8039),6,Ridge regression,32.0,11.422693742209137
+2026-09-16 23:00:00,Mumbai (8039),6,Ridge regression,15.0,13.65069544968991
+2026-09-17 02:00:00,Mumbai (8039),6,Ridge regression,21.0,19.087000803234098
+2026-09-17 05:00:00,Mumbai (8039),6,Ridge regression,20.0,12.94056976312607
+2026-09-17 08:00:00,Mumbai (8039),6,Ridge regression,11.0,13.48822783123952
+2026-09-17 11:00:00,Mumbai (8039),6,Ridge regression,6.0,14.718032506365017
+2026-09-17 14:00:00,Mumbai (8039),6,Ridge regression,9.0,10.87084210842184
+2026-09-17 17:00:00,Mumbai (8039),6,Ridge regression,11.0,12.683070634287501
+2026-09-17 20:00:00,Mumbai (8039),6,Ridge regression,9.0,12.229541005345158
+2026-09-17 23:00:00,Mumbai (8039),6,Ridge regression,5.0,13.755227564375865
+2026-09-18 02:00:00,Mumbai (8039),6,Ridge regression,10.0,12.30356861119347
+2026-09-18 05:00:00,Mumbai (8039),6,Ridge regression,12.0,11.247770146881415
+2026-09-18 08:00:00,Mumbai (8039),6,Ridge regression,11.0,9.988038161851867
+2026-09-18 11:00:00,Mumbai (8039),6,Ridge regression,8.0,12.547446574284294
+2026-09-18 14:00:00,Mumbai (8039),6,Ridge regression,10.0,12.897143397817281
+2026-09-18 17:00:00,Mumbai (8039),6,Ridge regression,15.0,12.722800635247816
+2026-09-18 20:00:00,Mumbai (8039),6,Ridge regression,13.0,12.074000999137036
+2026-09-18 23:00:00,Mumbai (8039),6,Ridge regression,10.0,13.388410397061337
+2026-09-19 02:00:00,Mumbai (8039),6,Ridge regression,5.0,11.682206323847595
+2026-09-19 05:00:00,Mumbai (8039),6,Ridge regression,23.0,11.260670353328251
+2026-09-19 08:00:00,Mumbai (8039),6,Ridge regression,33.0,10.961275223830297
+2026-09-19 11:00:00,Mumbai (8039),6,Ridge regression,15.0,15.315794309062149
+2026-09-19 14:00:00,Mumbai (8039),6,Ridge regression,21.0,18.351657616628657
+2026-09-19 17:00:00,Mumbai (8039),6,Ridge regression,35.0,13.859702142664224
+2026-09-19 20:00:00,Mumbai (8039),6,Ridge regression,23.0,16.851320007028413
+2026-09-19 23:00:00,Mumbai (8039),6,Ridge regression,26.0,19.13706971415904
+2026-09-20 02:00:00,Mumbai (8039),6,Ridge regression,33.0,17.978511189032588
+2026-09-20 05:00:00,Mumbai (8039),6,Ridge regression,25.0,19.173023094280737
+2026-09-20 08:00:00,Mumbai (8039),6,Ridge regression,19.0,23.202588380759558
+2026-09-20 11:00:00,Mumbai (8039),6,Ridge regression,21.0,21.921209670949516
+2026-09-20 14:00:00,Mumbai (8039),6,Ridge regression,19.0,19.27087708621188
+2026-09-20 17:00:00,Mumbai (8039),6,Ridge regression,31.0,21.86878234161931
+2026-09-20 20:00:00,Mumbai (8039),6,Ridge regression,36.0,18.248576798997753
+2026-09-20 23:00:00,Mumbai (8039),6,Ridge regression,36.0,21.632008769416842
+2026-09-21 02:00:00,Mumbai (8039),6,Ridge regression,50.0,23.79158417541442
+2026-09-21 05:00:00,Mumbai (8039),6,Ridge regression,44.0,24.61937752448553
+2026-09-21 11:00:00,Mumbai (8039),6,Ridge regression,27.0,23.656868229775306
+2026-09-21 14:00:00,Mumbai (8039),6,Ridge regression,18.0,22.852701225637745
+2026-09-21 17:00:00,Mumbai (8039),6,Ridge regression,15.0,21.394335781191163
+2026-09-21 20:00:00,Mumbai (8039),6,Ridge regression,26.0,21.3596869163525
+2026-09-21 23:00:00,Mumbai (8039),6,Ridge regression,34.0,20.891766390398118
+2026-09-22 02:00:00,Mumbai (8039),6,Ridge regression,36.0,23.27580485349091
+2026-09-16 08:00:00,Mumbai (8039),12,Ridge regression,13.0,13.840464391845872
+2026-09-16 11:00:00,Mumbai (8039),12,Ridge regression,14.0,13.11158453287576
+2026-09-16 14:00:00,Mumbai (8039),12,Ridge regression,32.0,12.272439160915829
+2026-09-16 17:00:00,Mumbai (8039),12,Ridge regression,15.0,14.547154255282008
+2026-09-16 20:00:00,Mumbai (8039),12,Ridge regression,21.0,15.90584743032314
+2026-09-16 23:00:00,Mumbai (8039),12,Ridge regression,20.0,14.1112087793699
+2026-09-17 02:00:00,Mumbai (8039),12,Ridge regression,11.0,13.257409061439848
+2026-09-17 05:00:00,Mumbai (8039),12,Ridge regression,6.0,13.12073563513903
+2026-09-17 08:00:00,Mumbai (8039),12,Ridge regression,9.0,16.781167614695647
+2026-09-17 11:00:00,Mumbai (8039),12,Ridge regression,11.0,12.311006093776456
+2026-09-17 14:00:00,Mumbai (8039),12,Ridge regression,9.0,14.375922661269957
+2026-09-17 17:00:00,Mumbai (8039),12,Ridge regression,5.0,14.629756743151304
+2026-09-17 20:00:00,Mumbai (8039),12,Ridge regression,10.0,15.423164592798294
+2026-09-17 23:00:00,Mumbai (8039),12,Ridge regression,12.0,14.465906392641484
+2026-09-18 02:00:00,Mumbai (8039),12,Ridge regression,11.0,16.290466129720336
+2026-09-18 05:00:00,Mumbai (8039),12,Ridge regression,8.0,13.471873919164532
+2026-09-18 08:00:00,Mumbai (8039),12,Ridge regression,10.0,19.058522070771595
+2026-09-18 11:00:00,Mumbai (8039),12,Ridge regression,15.0,13.837677277253517
+2026-09-18 14:00:00,Mumbai (8039),12,Ridge regression,13.0,11.318541758353092
+2026-09-18 17:00:00,Mumbai (8039),12,Ridge regression,10.0,11.412725143286561
+2026-09-18 20:00:00,Mumbai (8039),12,Ridge regression,5.0,12.123393085591454
+2026-09-18 23:00:00,Mumbai (8039),12,Ridge regression,23.0,12.791829191025736
+2026-09-19 02:00:00,Mumbai (8039),12,Ridge regression,33.0,13.448680849106196
+2026-09-19 05:00:00,Mumbai (8039),12,Ridge regression,15.0,12.524453520458913
+2026-09-19 08:00:00,Mumbai (8039),12,Ridge regression,21.0,16.572071083513663
+2026-09-19 11:00:00,Mumbai (8039),12,Ridge regression,35.0,14.690083914427543
+2026-09-19 14:00:00,Mumbai (8039),12,Ridge regression,23.0,12.46788021636995
+2026-09-19 17:00:00,Mumbai (8039),12,Ridge regression,26.0,13.575968449483145
+2026-09-19 20:00:00,Mumbai (8039),12,Ridge regression,33.0,14.164306449020765
+2026-09-19 23:00:00,Mumbai (8039),12,Ridge regression,25.0,17.158421674158845
+2026-09-20 02:00:00,Mumbai (8039),12,Ridge regression,19.0,15.572601851595714
+2026-09-20 05:00:00,Mumbai (8039),12,Ridge regression,21.0,16.867428009744593
+2026-09-20 08:00:00,Mumbai (8039),12,Ridge regression,19.0,21.204787784844655
+2026-09-20 11:00:00,Mumbai (8039),12,Ridge regression,31.0,21.235111957634444
+2026-09-20 14:00:00,Mumbai (8039),12,Ridge regression,36.0,15.953766842865889
+2026-09-20 17:00:00,Mumbai (8039),12,Ridge regression,36.0,21.162028441909378
+2026-09-20 20:00:00,Mumbai (8039),12,Ridge regression,50.0,19.353521007747727
+2026-09-20 23:00:00,Mumbai (8039),12,Ridge regression,44.0,18.609834671951184
+2026-09-21 05:00:00,Mumbai (8039),12,Ridge regression,27.0,16.629452661533033
+2026-09-21 08:00:00,Mumbai (8039),12,Ridge regression,18.0,17.266333974016632
+2026-09-21 11:00:00,Mumbai (8039),12,Ridge regression,15.0,18.181465962044086
+2026-09-21 14:00:00,Mumbai (8039),12,Ridge regression,26.0,17.431302232758277
+2026-09-21 17:00:00,Mumbai (8039),12,Ridge regression,34.0,20.639069093115353
+2026-09-21 20:00:00,Mumbai (8039),12,Ridge regression,36.0,24.739350385759742
+2026-09-16 08:00:00,Mumbai (8039),24,Ridge regression,21.0,14.867629001345769
+2026-09-16 11:00:00,Mumbai (8039),24,Ridge regression,20.0,13.160498955144607
+2026-09-16 14:00:00,Mumbai (8039),24,Ridge regression,11.0,13.237472426814215
+2026-09-16 17:00:00,Mumbai (8039),24,Ridge regression,6.0,11.85897118260597
+2026-09-16 20:00:00,Mumbai (8039),24,Ridge regression,9.0,13.329196233785298
+2026-09-16 23:00:00,Mumbai (8039),24,Ridge regression,11.0,12.177315915648038
+2026-09-17 02:00:00,Mumbai (8039),24,Ridge regression,9.0,16.110806291096516
+2026-09-17 05:00:00,Mumbai (8039),24,Ridge regression,5.0,15.519592629812859
+2026-09-17 08:00:00,Mumbai (8039),24,Ridge regression,10.0,16.3640542452951
+2026-09-17 11:00:00,Mumbai (8039),24,Ridge regression,12.0,12.648169693752315
+2026-09-17 14:00:00,Mumbai (8039),24,Ridge regression,11.0,13.006824786237825
+2026-09-17 17:00:00,Mumbai (8039),24,Ridge regression,8.0,12.393320522217131
+2026-09-17 20:00:00,Mumbai (8039),24,Ridge regression,10.0,13.006113781707013
+2026-09-17 23:00:00,Mumbai (8039),24,Ridge regression,15.0,13.009316904148768
+2026-09-18 02:00:00,Mumbai (8039),24,Ridge regression,13.0,14.412419750464338
+2026-09-18 05:00:00,Mumbai (8039),24,Ridge regression,10.0,10.838668086739382
+2026-09-18 08:00:00,Mumbai (8039),24,Ridge regression,5.0,10.14000988087831
+2026-09-18 11:00:00,Mumbai (8039),24,Ridge regression,23.0,10.691218092066553
+2026-09-18 14:00:00,Mumbai (8039),24,Ridge regression,33.0,10.411495771880816
+2026-09-18 17:00:00,Mumbai (8039),24,Ridge regression,15.0,10.365444957739504
+2026-09-18 20:00:00,Mumbai (8039),24,Ridge regression,21.0,11.96675347914603
+2026-09-18 23:00:00,Mumbai (8039),24,Ridge regression,35.0,12.245819179298604
+2026-09-19 02:00:00,Mumbai (8039),24,Ridge regression,23.0,11.995342424896698
+2026-09-19 05:00:00,Mumbai (8039),24,Ridge regression,26.0,13.406964184058939
+2026-09-19 08:00:00,Mumbai (8039),24,Ridge regression,33.0,12.454168332638574
+2026-09-19 11:00:00,Mumbai (8039),24,Ridge regression,25.0,14.766151349177164
+2026-09-19 14:00:00,Mumbai (8039),24,Ridge regression,19.0,17.401251551082773
+2026-09-19 17:00:00,Mumbai (8039),24,Ridge regression,21.0,18.480015965271395
+2026-09-19 20:00:00,Mumbai (8039),24,Ridge regression,19.0,15.948780017571607
+2026-09-19 23:00:00,Mumbai (8039),24,Ridge regression,31.0,17.367954238180896
+2026-09-20 02:00:00,Mumbai (8039),24,Ridge regression,36.0,15.316182168780834
+2026-09-20 05:00:00,Mumbai (8039),24,Ridge regression,36.0,16.842713612790682
+2026-09-20 08:00:00,Mumbai (8039),24,Ridge regression,50.0,16.845904134828757
+2026-09-20 11:00:00,Mumbai (8039),24,Ridge regression,44.0,21.080912875391686
+2026-09-20 17:00:00,Mumbai (8039),24,Ridge regression,27.0,17.344427178488992
+2026-09-20 20:00:00,Mumbai (8039),24,Ridge regression,18.0,17.857998912922493
+2026-09-20 23:00:00,Mumbai (8039),24,Ridge regression,15.0,16.66499325545286
+2026-09-21 02:00:00,Mumbai (8039),24,Ridge regression,26.0,17.36550462203027
+2026-09-21 05:00:00,Mumbai (8039),24,Ridge regression,34.0,20.595166243698543
+2026-09-21 08:00:00,Mumbai (8039),24,Ridge regression,36.0,22.490151587990685
+2026-09-16 08:00:00,Mumbai (8039),1,Random forest,47.0,25.43349414882503
+2026-09-16 11:00:00,Mumbai (8039),1,Random forest,8.0,17.262941814578035
+2026-09-16 14:00:00,Mumbai (8039),1,Random forest,6.0,13.720253433099412
+2026-09-16 17:00:00,Mumbai (8039),1,Random forest,10.0,10.809692412764399
+2026-09-16 20:00:00,Mumbai (8039),1,Random forest,12.0,12.656376767925924
+2026-09-16 23:00:00,Mumbai (8039),1,Random forest,14.0,14.334021586242576
+2026-09-17 02:00:00,Mumbai (8039),1,Random forest,33.0,25.176556699850433
+2026-09-17 05:00:00,Mumbai (8039),1,Random forest,14.0,16.461997504058267
+2026-09-17 08:00:00,Mumbai (8039),1,Random forest,30.0,18.45947392204746
+2026-09-17 11:00:00,Mumbai (8039),1,Random forest,16.0,16.619109643051598
+2026-09-17 14:00:00,Mumbai (8039),1,Random forest,9.0,15.542868483912606
+2026-09-17 17:00:00,Mumbai (8039),1,Random forest,7.0,9.519274952630218
+2026-09-17 20:00:00,Mumbai (8039),1,Random forest,13.0,10.490271114835757
+2026-09-17 23:00:00,Mumbai (8039),1,Random forest,17.0,11.299339758280933
+2026-09-18 02:00:00,Mumbai (8039),1,Random forest,7.0,11.11897039812326
+2026-09-18 05:00:00,Mumbai (8039),1,Random forest,4.0,9.104670733821278
+2026-09-18 08:00:00,Mumbai (8039),1,Random forest,14.0,11.154427539622976
+2026-09-18 11:00:00,Mumbai (8039),1,Random forest,12.0,11.344313508186582
+2026-09-18 14:00:00,Mumbai (8039),1,Random forest,11.0,10.463844798175671
+2026-09-18 17:00:00,Mumbai (8039),1,Random forest,18.0,10.755767809260446
+2026-09-18 20:00:00,Mumbai (8039),1,Random forest,11.0,10.574124441519958
+2026-09-18 23:00:00,Mumbai (8039),1,Random forest,19.0,14.60797361552277
+2026-09-19 02:00:00,Mumbai (8039),1,Random forest,11.0,13.541262895139813
+2026-09-19 05:00:00,Mumbai (8039),1,Random forest,9.0,10.601508897177238
+2026-09-19 08:00:00,Mumbai (8039),1,Random forest,12.0,10.1130194893256
+2026-09-19 11:00:00,Mumbai (8039),1,Random forest,24.0,18.404354832502662
+2026-09-19 14:00:00,Mumbai (8039),1,Random forest,14.0,25.24378181325899
+2026-09-19 17:00:00,Mumbai (8039),1,Random forest,27.0,15.328258000782363
+2026-09-19 20:00:00,Mumbai (8039),1,Random forest,23.0,15.783871895562307
+2026-09-19 23:00:00,Mumbai (8039),1,Random forest,21.0,28.14862083507595
+2026-09-20 02:00:00,Mumbai (8039),1,Random forest,24.0,20.97963069129013
+2026-09-20 05:00:00,Mumbai (8039),1,Random forest,27.0,25.067237950803356
+2026-09-20 08:00:00,Mumbai (8039),1,Random forest,33.0,26.707577668275427
+2026-09-20 11:00:00,Mumbai (8039),1,Random forest,25.0,24.570225659445473
+2026-09-20 14:00:00,Mumbai (8039),1,Random forest,19.0,17.936625276927515
+2026-09-20 17:00:00,Mumbai (8039),1,Random forest,12.0,18.574488408650172
+2026-09-20 20:00:00,Mumbai (8039),1,Random forest,26.0,19.16330851909528
+2026-09-20 23:00:00,Mumbai (8039),1,Random forest,27.0,27.010304839524647
+2026-09-21 02:00:00,Mumbai (8039),1,Random forest,30.0,25.671645799218563
+2026-09-21 05:00:00,Mumbai (8039),1,Random forest,39.0,25.786345530043285
+2026-09-21 08:00:00,Mumbai (8039),1,Random forest,46.0,27.765639644969742
+2026-09-21 11:00:00,Mumbai (8039),1,Random forest,44.0,25.69941746736523
+2026-09-21 17:00:00,Mumbai (8039),1,Random forest,21.0,24.85497841105117
+2026-09-21 20:00:00,Mumbai (8039),1,Random forest,3.0,18.010961377373906
+2026-09-21 23:00:00,Mumbai (8039),1,Random forest,21.0,17.238749464587702
+2026-09-22 02:00:00,Mumbai (8039),1,Random forest,34.0,24.636411534257505
+2026-09-22 05:00:00,Mumbai (8039),1,Random forest,38.0,26.22527706609983
+2026-09-22 08:00:00,Mumbai (8039),1,Random forest,39.0,26.1085595382573
+2026-09-16 08:00:00,Mumbai (8039),3,Random forest,12.0,18.239190620238606
+2026-09-16 11:00:00,Mumbai (8039),3,Random forest,9.0,16.38696966405055
+2026-09-16 14:00:00,Mumbai (8039),3,Random forest,11.0,14.771695975865093
+2026-09-16 17:00:00,Mumbai (8039),3,Random forest,13.0,12.689274832738073
+2026-09-16 20:00:00,Mumbai (8039),3,Random forest,14.0,14.160262091666509
+2026-09-16 23:00:00,Mumbai (8039),3,Random forest,32.0,14.887353583507998
+2026-09-17 02:00:00,Mumbai (8039),3,Random forest,15.0,18.442190104142508
+2026-09-17 05:00:00,Mumbai (8039),3,Random forest,21.0,17.338029034203945
+2026-09-17 08:00:00,Mumbai (8039),3,Random forest,20.0,19.16494553226557
+2026-09-17 11:00:00,Mumbai (8039),3,Random forest,11.0,17.815747183100118
+2026-09-17 14:00:00,Mumbai (8039),3,Random forest,6.0,15.073198331624797
+2026-09-17 17:00:00,Mumbai (8039),3,Random forest,9.0,11.269537028331152
+2026-09-17 20:00:00,Mumbai (8039),3,Random forest,11.0,11.815860500796646
+2026-09-17 23:00:00,Mumbai (8039),3,Random forest,9.0,13.532284643002905
+2026-09-18 02:00:00,Mumbai (8039),3,Random forest,5.0,12.285557371134766
+2026-09-18 05:00:00,Mumbai (8039),3,Random forest,10.0,11.741730508784299
+2026-09-18 08:00:00,Mumbai (8039),3,Random forest,12.0,12.66290814142284
+2026-09-18 11:00:00,Mumbai (8039),3,Random forest,11.0,11.969007748357594
+2026-09-18 14:00:00,Mumbai (8039),3,Random forest,8.0,12.499302966583931
+2026-09-18 17:00:00,Mumbai (8039),3,Random forest,10.0,11.703616761420555
+2026-09-18 20:00:00,Mumbai (8039),3,Random forest,15.0,11.309703394558662
+2026-09-18 23:00:00,Mumbai (8039),3,Random forest,13.0,13.442508335060197
+2026-09-19 02:00:00,Mumbai (8039),3,Random forest,10.0,13.780909405566915
+2026-09-19 05:00:00,Mumbai (8039),3,Random forest,5.0,10.308826156285528
+2026-09-19 08:00:00,Mumbai (8039),3,Random forest,23.0,12.116197993168965
+2026-09-19 11:00:00,Mumbai (8039),3,Random forest,33.0,13.251514173892273
+2026-09-19 14:00:00,Mumbai (8039),3,Random forest,15.0,19.118276770311443
+2026-09-19 17:00:00,Mumbai (8039),3,Random forest,21.0,17.076967945825526
+2026-09-19 20:00:00,Mumbai (8039),3,Random forest,35.0,17.26659648081536
+2026-09-19 23:00:00,Mumbai (8039),3,Random forest,23.0,22.580651202065916
+2026-09-20 02:00:00,Mumbai (8039),3,Random forest,26.0,21.42292908785117
+2026-09-20 05:00:00,Mumbai (8039),3,Random forest,33.0,17.98163515206843
+2026-09-20 08:00:00,Mumbai (8039),3,Random forest,25.0,20.770439208449496
+2026-09-20 11:00:00,Mumbai (8039),3,Random forest,19.0,16.966366389458482
+2026-09-20 14:00:00,Mumbai (8039),3,Random forest,21.0,17.14451312254136
+2026-09-20 17:00:00,Mumbai (8039),3,Random forest,19.0,18.599273989183043
+2026-09-20 20:00:00,Mumbai (8039),3,Random forest,31.0,21.060680310373048
+2026-09-20 23:00:00,Mumbai (8039),3,Random forest,36.0,19.792141007241245
+2026-09-21 02:00:00,Mumbai (8039),3,Random forest,36.0,19.8733893824041
+2026-09-21 05:00:00,Mumbai (8039),3,Random forest,50.0,18.600342382963895
+2026-09-21 08:00:00,Mumbai (8039),3,Random forest,44.0,19.344958816639153
+2026-09-21 14:00:00,Mumbai (8039),3,Random forest,27.0,17.422549464839694
+2026-09-21 17:00:00,Mumbai (8039),3,Random forest,18.0,17.82091516176461
+2026-09-21 20:00:00,Mumbai (8039),3,Random forest,15.0,17.234707819685752
+2026-09-21 23:00:00,Mumbai (8039),3,Random forest,26.0,18.359173903166546
+2026-09-22 02:00:00,Mumbai (8039),3,Random forest,34.0,17.216940511830213
+2026-09-22 05:00:00,Mumbai (8039),3,Random forest,36.0,19.83013460939932
+2026-09-16 08:00:00,Mumbai (8039),6,Random forest,9.0,17.370677039478117
+2026-09-16 11:00:00,Mumbai (8039),6,Random forest,11.0,15.831001357574872
+2026-09-16 14:00:00,Mumbai (8039),6,Random forest,13.0,15.39062240429848
+2026-09-16 17:00:00,Mumbai (8039),6,Random forest,14.0,14.50852787992881
+2026-09-16 20:00:00,Mumbai (8039),6,Random forest,32.0,14.815931540939276
+2026-09-16 23:00:00,Mumbai (8039),6,Random forest,15.0,14.956739979934639
+2026-09-17 02:00:00,Mumbai (8039),6,Random forest,21.0,16.638528352094532
+2026-09-17 05:00:00,Mumbai (8039),6,Random forest,20.0,15.383422991911763
+2026-09-17 08:00:00,Mumbai (8039),6,Random forest,11.0,16.85611179604136
+2026-09-17 11:00:00,Mumbai (8039),6,Random forest,6.0,16.10515025268276
+2026-09-17 14:00:00,Mumbai (8039),6,Random forest,9.0,16.12549032219929
+2026-09-17 17:00:00,Mumbai (8039),6,Random forest,11.0,15.01535607800352
+2026-09-17 20:00:00,Mumbai (8039),6,Random forest,9.0,14.301465180903254
+2026-09-17 23:00:00,Mumbai (8039),6,Random forest,5.0,14.70459911396366
+2026-09-18 02:00:00,Mumbai (8039),6,Random forest,10.0,13.834032276274916
+2026-09-18 05:00:00,Mumbai (8039),6,Random forest,12.0,15.042627595558315
+2026-09-18 08:00:00,Mumbai (8039),6,Random forest,11.0,17.10893692891216
+2026-09-18 11:00:00,Mumbai (8039),6,Random forest,8.0,12.794303014361116
+2026-09-18 14:00:00,Mumbai (8039),6,Random forest,10.0,12.874414915966383
+2026-09-18 17:00:00,Mumbai (8039),6,Random forest,15.0,13.121551086149427
+2026-09-18 20:00:00,Mumbai (8039),6,Random forest,13.0,12.292854134427667
+2026-09-18 23:00:00,Mumbai (8039),6,Random forest,10.0,13.41794493259628
+2026-09-19 02:00:00,Mumbai (8039),6,Random forest,5.0,13.041258540479134
+2026-09-19 05:00:00,Mumbai (8039),6,Random forest,23.0,12.798801602837596
+2026-09-19 08:00:00,Mumbai (8039),6,Random forest,33.0,11.779437608802157
+2026-09-19 11:00:00,Mumbai (8039),6,Random forest,15.0,13.636591613681018
+2026-09-19 14:00:00,Mumbai (8039),6,Random forest,21.0,16.921623034645098
+2026-09-19 17:00:00,Mumbai (8039),6,Random forest,35.0,15.495739520698892
+2026-09-19 20:00:00,Mumbai (8039),6,Random forest,23.0,18.731689832770712
+2026-09-19 23:00:00,Mumbai (8039),6,Random forest,26.0,19.230256216550327
+2026-09-20 02:00:00,Mumbai (8039),6,Random forest,33.0,17.03843499256735
+2026-09-20 05:00:00,Mumbai (8039),6,Random forest,25.0,15.843703308401833
+2026-09-20 08:00:00,Mumbai (8039),6,Random forest,19.0,18.458849448481793
+2026-09-20 11:00:00,Mumbai (8039),6,Random forest,21.0,14.94027993009456
+2026-09-20 14:00:00,Mumbai (8039),6,Random forest,19.0,15.770997778909532
+2026-09-20 17:00:00,Mumbai (8039),6,Random forest,31.0,19.043933802036726
+2026-09-20 20:00:00,Mumbai (8039),6,Random forest,36.0,19.282007241053304
+2026-09-20 23:00:00,Mumbai (8039),6,Random forest,36.0,18.797264775830165
+2026-09-21 02:00:00,Mumbai (8039),6,Random forest,50.0,19.54263243861115
+2026-09-21 05:00:00,Mumbai (8039),6,Random forest,44.0,17.682612107062177
+2026-09-21 11:00:00,Mumbai (8039),6,Random forest,27.0,17.42709147062088
+2026-09-21 14:00:00,Mumbai (8039),6,Random forest,18.0,16.815099274091914
+2026-09-21 17:00:00,Mumbai (8039),6,Random forest,15.0,16.937993918118902
+2026-09-21 20:00:00,Mumbai (8039),6,Random forest,26.0,16.78367967275241
+2026-09-21 23:00:00,Mumbai (8039),6,Random forest,34.0,16.566025516737596
+2026-09-22 02:00:00,Mumbai (8039),6,Random forest,36.0,15.419937974922101
+2026-09-16 08:00:00,Mumbai (8039),12,Random forest,13.0,15.62913271625462
+2026-09-16 11:00:00,Mumbai (8039),12,Random forest,14.0,15.694398126655482
+2026-09-16 14:00:00,Mumbai (8039),12,Random forest,32.0,14.749561163538344
+2026-09-16 17:00:00,Mumbai (8039),12,Random forest,15.0,14.55000006751362
+2026-09-16 20:00:00,Mumbai (8039),12,Random forest,21.0,14.574863649723172
+2026-09-16 23:00:00,Mumbai (8039),12,Random forest,20.0,14.889666995041999
+2026-09-17 02:00:00,Mumbai (8039),12,Random forest,11.0,14.771712806256913
+2026-09-17 05:00:00,Mumbai (8039),12,Random forest,6.0,14.409561293525297
+2026-09-17 08:00:00,Mumbai (8039),12,Random forest,9.0,15.44810135969695
+2026-09-17 11:00:00,Mumbai (8039),12,Random forest,11.0,14.699232344195197
+2026-09-17 14:00:00,Mumbai (8039),12,Random forest,9.0,13.668376757215391
+2026-09-17 17:00:00,Mumbai (8039),12,Random forest,5.0,15.289118421467878
+2026-09-17 20:00:00,Mumbai (8039),12,Random forest,10.0,15.067890414238324
+2026-09-17 23:00:00,Mumbai (8039),12,Random forest,12.0,14.300746720513747
+2026-09-18 02:00:00,Mumbai (8039),12,Random forest,11.0,14.886844105241156
+2026-09-18 05:00:00,Mumbai (8039),12,Random forest,8.0,15.997118290822227
+2026-09-18 08:00:00,Mumbai (8039),12,Random forest,10.0,16.432085780433297
+2026-09-18 11:00:00,Mumbai (8039),12,Random forest,15.0,12.830018965566016
+2026-09-18 14:00:00,Mumbai (8039),12,Random forest,13.0,12.157541113842589
+2026-09-18 17:00:00,Mumbai (8039),12,Random forest,10.0,11.370844221711092
+2026-09-18 20:00:00,Mumbai (8039),12,Random forest,5.0,12.35007458206281
+2026-09-18 23:00:00,Mumbai (8039),12,Random forest,23.0,14.62187893185532
+2026-09-19 02:00:00,Mumbai (8039),12,Random forest,33.0,13.376626820877208
+2026-09-19 05:00:00,Mumbai (8039),12,Random forest,15.0,14.28774984220573
+2026-09-19 08:00:00,Mumbai (8039),12,Random forest,21.0,13.63568177034238
+2026-09-19 11:00:00,Mumbai (8039),12,Random forest,35.0,14.626632668243344
+2026-09-19 14:00:00,Mumbai (8039),12,Random forest,23.0,13.443442123680127
+2026-09-19 17:00:00,Mumbai (8039),12,Random forest,26.0,14.256432524175173
+2026-09-19 20:00:00,Mumbai (8039),12,Random forest,33.0,12.850250954411942
+2026-09-19 23:00:00,Mumbai (8039),12,Random forest,25.0,13.734224038760804
+2026-09-20 02:00:00,Mumbai (8039),12,Random forest,19.0,12.489515991390212
+2026-09-20 05:00:00,Mumbai (8039),12,Random forest,21.0,12.218189016865479
+2026-09-20 08:00:00,Mumbai (8039),12,Random forest,19.0,13.776466091112756
+2026-09-20 11:00:00,Mumbai (8039),12,Random forest,31.0,15.335840834002601
+2026-09-20 14:00:00,Mumbai (8039),12,Random forest,36.0,15.818561855098245
+2026-09-20 17:00:00,Mumbai (8039),12,Random forest,36.0,17.792066129046393
+2026-09-20 20:00:00,Mumbai (8039),12,Random forest,50.0,16.368028982727512
+2026-09-20 23:00:00,Mumbai (8039),12,Random forest,44.0,16.262051151734955
+2026-09-21 05:00:00,Mumbai (8039),12,Random forest,27.0,15.049836420932012
+2026-09-21 08:00:00,Mumbai (8039),12,Random forest,18.0,15.29489861853832
+2026-09-21 11:00:00,Mumbai (8039),12,Random forest,15.0,16.988682653861442
+2026-09-21 14:00:00,Mumbai (8039),12,Random forest,26.0,16.22579299377094
+2026-09-21 17:00:00,Mumbai (8039),12,Random forest,34.0,15.698324912517245
+2026-09-21 20:00:00,Mumbai (8039),12,Random forest,36.0,15.791472877254613
+2026-09-16 08:00:00,Mumbai (8039),24,Random forest,21.0,13.690215314641788
+2026-09-16 11:00:00,Mumbai (8039),24,Random forest,20.0,13.805036902281875
+2026-09-16 14:00:00,Mumbai (8039),24,Random forest,11.0,15.957724781410542
+2026-09-16 17:00:00,Mumbai (8039),24,Random forest,6.0,13.35151684608535
+2026-09-16 20:00:00,Mumbai (8039),24,Random forest,9.0,13.812193808370287
+2026-09-16 23:00:00,Mumbai (8039),24,Random forest,11.0,13.461039317980498
+2026-09-17 02:00:00,Mumbai (8039),24,Random forest,9.0,16.13441119474208
+2026-09-17 05:00:00,Mumbai (8039),24,Random forest,5.0,15.045632906037318
+2026-09-17 08:00:00,Mumbai (8039),24,Random forest,10.0,14.791067799847209
+2026-09-17 11:00:00,Mumbai (8039),24,Random forest,12.0,14.759617770988898
+2026-09-17 14:00:00,Mumbai (8039),24,Random forest,11.0,15.784208662983037
+2026-09-17 17:00:00,Mumbai (8039),24,Random forest,8.0,12.56691576642312
+2026-09-17 20:00:00,Mumbai (8039),24,Random forest,10.0,12.594962684288543
+2026-09-17 23:00:00,Mumbai (8039),24,Random forest,15.0,13.18677232481142
+2026-09-18 02:00:00,Mumbai (8039),24,Random forest,13.0,13.759393088665153
+2026-09-18 05:00:00,Mumbai (8039),24,Random forest,10.0,12.76194661056465
+2026-09-18 08:00:00,Mumbai (8039),24,Random forest,5.0,12.658407685165422
+2026-09-18 11:00:00,Mumbai (8039),24,Random forest,23.0,12.041463037235095
+2026-09-18 14:00:00,Mumbai (8039),24,Random forest,33.0,12.668054970843277
+2026-09-18 17:00:00,Mumbai (8039),24,Random forest,15.0,11.419513753174359
+2026-09-18 20:00:00,Mumbai (8039),24,Random forest,21.0,11.855735316727197
+2026-09-18 23:00:00,Mumbai (8039),24,Random forest,35.0,12.706554407022285
+2026-09-19 02:00:00,Mumbai (8039),24,Random forest,23.0,12.154013133924904
+2026-09-19 05:00:00,Mumbai (8039),24,Random forest,26.0,11.519637400625404
+2026-09-19 08:00:00,Mumbai (8039),24,Random forest,33.0,11.396421107687747
+2026-09-19 11:00:00,Mumbai (8039),24,Random forest,25.0,15.53842877031809
+2026-09-19 14:00:00,Mumbai (8039),24,Random forest,19.0,18.55681885035329
+2026-09-19 17:00:00,Mumbai (8039),24,Random forest,21.0,19.407014220070717
+2026-09-19 20:00:00,Mumbai (8039),24,Random forest,19.0,15.976513144119942
+2026-09-19 23:00:00,Mumbai (8039),24,Random forest,31.0,16.35285597306032
+2026-09-20 02:00:00,Mumbai (8039),24,Random forest,36.0,14.784619496731336
+2026-09-20 05:00:00,Mumbai (8039),24,Random forest,36.0,13.511962153300777
+2026-09-20 08:00:00,Mumbai (8039),24,Random forest,50.0,13.970127676660567
+2026-09-20 11:00:00,Mumbai (8039),24,Random forest,44.0,13.955032547517837
+2026-09-20 17:00:00,Mumbai (8039),24,Random forest,27.0,16.1658165564226
+2026-09-20 20:00:00,Mumbai (8039),24,Random forest,18.0,16.54600280099158
+2026-09-20 23:00:00,Mumbai (8039),24,Random forest,15.0,16.219720510240236
+2026-09-21 02:00:00,Mumbai (8039),24,Random forest,26.0,15.056405277886306
+2026-09-21 05:00:00,Mumbai (8039),24,Random forest,34.0,13.049043490550844
+2026-09-21 08:00:00,Mumbai (8039),24,Random forest,36.0,13.555024679296736
+2026-09-16 08:00:00,Mumbai (8039),1,Gradient boosting,47.0,24.69887755021337
+2026-09-16 11:00:00,Mumbai (8039),1,Gradient boosting,8.0,20.931558510355345
+2026-09-16 14:00:00,Mumbai (8039),1,Gradient boosting,6.0,17.961498218928615
+2026-09-16 17:00:00,Mumbai (8039),1,Gradient boosting,10.0,13.321158989689968
+2026-09-16 20:00:00,Mumbai (8039),1,Gradient boosting,12.0,14.469725743416573
+2026-09-16 23:00:00,Mumbai (8039),1,Gradient boosting,14.0,15.783378837094533
+2026-09-17 02:00:00,Mumbai (8039),1,Gradient boosting,33.0,22.240820516479758
+2026-09-17 05:00:00,Mumbai (8039),1,Gradient boosting,14.0,18.820943273609593
+2026-09-17 08:00:00,Mumbai (8039),1,Gradient boosting,30.0,24.599745494435503
+2026-09-17 11:00:00,Mumbai (8039),1,Gradient boosting,16.0,21.703074288032923
+2026-09-17 14:00:00,Mumbai (8039),1,Gradient boosting,9.0,17.675256425870003
+2026-09-17 17:00:00,Mumbai (8039),1,Gradient boosting,7.0,11.818183865751417
+2026-09-17 20:00:00,Mumbai (8039),1,Gradient boosting,13.0,12.923250659823097
+2026-09-17 23:00:00,Mumbai (8039),1,Gradient boosting,17.0,13.153502796637841
+2026-09-18 02:00:00,Mumbai (8039),1,Gradient boosting,7.0,10.477043685645391
+2026-09-18 05:00:00,Mumbai (8039),1,Gradient boosting,4.0,9.378878264706614
+2026-09-18 08:00:00,Mumbai (8039),1,Gradient boosting,14.0,9.898864535470269
+2026-09-18 11:00:00,Mumbai (8039),1,Gradient boosting,12.0,13.205788456057176
+2026-09-18 14:00:00,Mumbai (8039),1,Gradient boosting,11.0,10.307612225508928
+2026-09-18 17:00:00,Mumbai (8039),1,Gradient boosting,18.0,11.595606474810632
+2026-09-18 20:00:00,Mumbai (8039),1,Gradient boosting,11.0,9.852064635419586
+2026-09-18 23:00:00,Mumbai (8039),1,Gradient boosting,19.0,15.298419162026448
+2026-09-19 02:00:00,Mumbai (8039),1,Gradient boosting,11.0,13.504703538855546
+2026-09-19 05:00:00,Mumbai (8039),1,Gradient boosting,9.0,10.132454298386993
+2026-09-19 08:00:00,Mumbai (8039),1,Gradient boosting,12.0,9.306224242937926
+2026-09-19 11:00:00,Mumbai (8039),1,Gradient boosting,24.0,20.97854852995102
+2026-09-19 14:00:00,Mumbai (8039),1,Gradient boosting,14.0,26.22039587412305
+2026-09-19 17:00:00,Mumbai (8039),1,Gradient boosting,27.0,18.774427814099095
+2026-09-19 20:00:00,Mumbai (8039),1,Gradient boosting,23.0,22.500489698524227
+2026-09-19 23:00:00,Mumbai (8039),1,Gradient boosting,21.0,25.467303386899328
+2026-09-20 02:00:00,Mumbai (8039),1,Gradient boosting,24.0,32.018640108635154
+2026-09-20 05:00:00,Mumbai (8039),1,Gradient boosting,27.0,25.30927395448131
+2026-09-20 08:00:00,Mumbai (8039),1,Gradient boosting,33.0,28.116477321488887
+2026-09-20 11:00:00,Mumbai (8039),1,Gradient boosting,25.0,24.91409827327851
+2026-09-20 14:00:00,Mumbai (8039),1,Gradient boosting,19.0,22.089534359099012
+2026-09-20 17:00:00,Mumbai (8039),1,Gradient boosting,12.0,24.414581985971445
+2026-09-20 20:00:00,Mumbai (8039),1,Gradient boosting,26.0,21.50043579791151
+2026-09-20 23:00:00,Mumbai (8039),1,Gradient boosting,27.0,28.791378703339536
+2026-09-21 02:00:00,Mumbai (8039),1,Gradient boosting,30.0,21.16977207382643
+2026-09-21 05:00:00,Mumbai (8039),1,Gradient boosting,39.0,19.97430141304633
+2026-09-21 08:00:00,Mumbai (8039),1,Gradient boosting,46.0,22.77701690071346
+2026-09-21 11:00:00,Mumbai (8039),1,Gradient boosting,44.0,19.573065515149942
+2026-09-21 17:00:00,Mumbai (8039),1,Gradient boosting,21.0,20.552429107731527
+2026-09-21 20:00:00,Mumbai (8039),1,Gradient boosting,3.0,17.243923813015734
+2026-09-21 23:00:00,Mumbai (8039),1,Gradient boosting,21.0,16.555152429602227
+2026-09-22 02:00:00,Mumbai (8039),1,Gradient boosting,34.0,19.371166839251035
+2026-09-22 05:00:00,Mumbai (8039),1,Gradient boosting,38.0,21.006938864445246
+2026-09-22 08:00:00,Mumbai (8039),1,Gradient boosting,39.0,20.269057303002196
+2026-09-16 08:00:00,Mumbai (8039),3,Gradient boosting,12.0,16.36158314252435
+2026-09-16 11:00:00,Mumbai (8039),3,Gradient boosting,9.0,18.508317655463603
+2026-09-16 14:00:00,Mumbai (8039),3,Gradient boosting,11.0,15.67463810840306
+2026-09-16 17:00:00,Mumbai (8039),3,Gradient boosting,13.0,10.083756670036665
+2026-09-16 20:00:00,Mumbai (8039),3,Gradient boosting,14.0,13.901046878339615
+2026-09-16 23:00:00,Mumbai (8039),3,Gradient boosting,32.0,18.47124741672776
+2026-09-17 02:00:00,Mumbai (8039),3,Gradient boosting,15.0,12.349276716909122
+2026-09-17 05:00:00,Mumbai (8039),3,Gradient boosting,21.0,14.043343203599386
+2026-09-17 08:00:00,Mumbai (8039),3,Gradient boosting,20.0,17.066633345032212
+2026-09-17 11:00:00,Mumbai (8039),3,Gradient boosting,11.0,21.74967864638086
+2026-09-17 14:00:00,Mumbai (8039),3,Gradient boosting,6.0,17.403099970421977
+2026-09-17 17:00:00,Mumbai (8039),3,Gradient boosting,9.0,14.092483580564616
+2026-09-17 20:00:00,Mumbai (8039),3,Gradient boosting,11.0,14.474434248774012
+2026-09-17 23:00:00,Mumbai (8039),3,Gradient boosting,9.0,16.913509730732613
+2026-09-18 02:00:00,Mumbai (8039),3,Gradient boosting,5.0,13.79239030393221
+2026-09-18 05:00:00,Mumbai (8039),3,Gradient boosting,10.0,11.781402609970824
+2026-09-18 08:00:00,Mumbai (8039),3,Gradient boosting,12.0,13.032898851535899
+2026-09-18 11:00:00,Mumbai (8039),3,Gradient boosting,11.0,11.79033621230016
+2026-09-18 14:00:00,Mumbai (8039),3,Gradient boosting,8.0,13.350491905984603
+2026-09-18 17:00:00,Mumbai (8039),3,Gradient boosting,10.0,11.015733613380345
+2026-09-18 20:00:00,Mumbai (8039),3,Gradient boosting,15.0,12.160861523652606
+2026-09-18 23:00:00,Mumbai (8039),3,Gradient boosting,13.0,14.732803942915185
+2026-09-19 02:00:00,Mumbai (8039),3,Gradient boosting,10.0,14.631227998516684
+2026-09-19 05:00:00,Mumbai (8039),3,Gradient boosting,5.0,8.401855730096011
+2026-09-19 08:00:00,Mumbai (8039),3,Gradient boosting,23.0,13.947293210733537
+2026-09-19 11:00:00,Mumbai (8039),3,Gradient boosting,33.0,11.405007515773631
+2026-09-19 14:00:00,Mumbai (8039),3,Gradient boosting,15.0,17.639963826838212
+2026-09-19 17:00:00,Mumbai (8039),3,Gradient boosting,21.0,18.204749205194524
+2026-09-19 20:00:00,Mumbai (8039),3,Gradient boosting,35.0,18.690571327117528
+2026-09-19 23:00:00,Mumbai (8039),3,Gradient boosting,23.0,28.428046684618387
+2026-09-20 02:00:00,Mumbai (8039),3,Gradient boosting,26.0,30.663505796563005
+2026-09-20 05:00:00,Mumbai (8039),3,Gradient boosting,33.0,20.683157113888196
+2026-09-20 08:00:00,Mumbai (8039),3,Gradient boosting,25.0,22.035823647833084
+2026-09-20 11:00:00,Mumbai (8039),3,Gradient boosting,19.0,18.35482875874701
+2026-09-20 14:00:00,Mumbai (8039),3,Gradient boosting,21.0,20.360160663561718
+2026-09-20 17:00:00,Mumbai (8039),3,Gradient boosting,19.0,19.606054900824464
+2026-09-20 20:00:00,Mumbai (8039),3,Gradient boosting,31.0,26.701017360476033
+2026-09-20 23:00:00,Mumbai (8039),3,Gradient boosting,36.0,16.76992140472606
+2026-09-21 02:00:00,Mumbai (8039),3,Gradient boosting,36.0,16.41608592045444
+2026-09-21 05:00:00,Mumbai (8039),3,Gradient boosting,50.0,14.654064736605642
+2026-09-21 08:00:00,Mumbai (8039),3,Gradient boosting,44.0,15.588179365957364
+2026-09-21 14:00:00,Mumbai (8039),3,Gradient boosting,27.0,10.056625487776897
+2026-09-21 17:00:00,Mumbai (8039),3,Gradient boosting,18.0,15.482060537118986
+2026-09-21 20:00:00,Mumbai (8039),3,Gradient boosting,15.0,16.43806297575903
+2026-09-21 23:00:00,Mumbai (8039),3,Gradient boosting,26.0,13.337165285468991
+2026-09-22 02:00:00,Mumbai (8039),3,Gradient boosting,34.0,10.457812739544096
+2026-09-22 05:00:00,Mumbai (8039),3,Gradient boosting,36.0,12.741055075681313
+2026-09-16 08:00:00,Mumbai (8039),6,Gradient boosting,9.0,16.11142066594466
+2026-09-16 11:00:00,Mumbai (8039),6,Gradient boosting,11.0,13.038770876055622
+2026-09-16 14:00:00,Mumbai (8039),6,Gradient boosting,13.0,14.001526488555175
+2026-09-16 17:00:00,Mumbai (8039),6,Gradient boosting,14.0,16.8526711519211
+2026-09-16 20:00:00,Mumbai (8039),6,Gradient boosting,32.0,19.78850867716991
+2026-09-16 23:00:00,Mumbai (8039),6,Gradient boosting,15.0,14.503487673247621
+2026-09-17 02:00:00,Mumbai (8039),6,Gradient boosting,21.0,14.625770238932482
+2026-09-17 05:00:00,Mumbai (8039),6,Gradient boosting,20.0,16.254542198648824
+2026-09-17 08:00:00,Mumbai (8039),6,Gradient boosting,11.0,17.51425237224985
+2026-09-17 11:00:00,Mumbai (8039),6,Gradient boosting,6.0,16.732033119499015
+2026-09-17 14:00:00,Mumbai (8039),6,Gradient boosting,9.0,14.541846496661854
+2026-09-17 17:00:00,Mumbai (8039),6,Gradient boosting,11.0,16.855656361739232
+2026-09-17 20:00:00,Mumbai (8039),6,Gradient boosting,9.0,18.35236488968465
+2026-09-17 23:00:00,Mumbai (8039),6,Gradient boosting,5.0,17.845397234794486
+2026-09-18 02:00:00,Mumbai (8039),6,Gradient boosting,10.0,14.177356733338286
+2026-09-18 05:00:00,Mumbai (8039),6,Gradient boosting,12.0,13.117407941339023
+2026-09-18 08:00:00,Mumbai (8039),6,Gradient boosting,11.0,17.56027183054618
+2026-09-18 11:00:00,Mumbai (8039),6,Gradient boosting,8.0,12.518880716311665
+2026-09-18 14:00:00,Mumbai (8039),6,Gradient boosting,10.0,12.905434788516494
+2026-09-18 17:00:00,Mumbai (8039),6,Gradient boosting,15.0,13.839396364024042
+2026-09-18 20:00:00,Mumbai (8039),6,Gradient boosting,13.0,12.786469517679013
+2026-09-18 23:00:00,Mumbai (8039),6,Gradient boosting,10.0,13.727895148421291
+2026-09-19 02:00:00,Mumbai (8039),6,Gradient boosting,5.0,12.998939664832136
+2026-09-19 05:00:00,Mumbai (8039),6,Gradient boosting,23.0,13.046960575547477
+2026-09-19 08:00:00,Mumbai (8039),6,Gradient boosting,33.0,11.770507920957396
+2026-09-19 11:00:00,Mumbai (8039),6,Gradient boosting,15.0,10.54617165339589
+2026-09-19 14:00:00,Mumbai (8039),6,Gradient boosting,21.0,16.74592353430295
+2026-09-19 17:00:00,Mumbai (8039),6,Gradient boosting,35.0,17.457136585715816
+2026-09-19 20:00:00,Mumbai (8039),6,Gradient boosting,23.0,22.651885569205795
+2026-09-19 23:00:00,Mumbai (8039),6,Gradient boosting,26.0,18.456316679306834
+2026-09-20 02:00:00,Mumbai (8039),6,Gradient boosting,33.0,15.169104764578693
+2026-09-20 05:00:00,Mumbai (8039),6,Gradient boosting,25.0,16.8832587796764
+2026-09-20 08:00:00,Mumbai (8039),6,Gradient boosting,19.0,18.057664112895164
+2026-09-20 11:00:00,Mumbai (8039),6,Gradient boosting,21.0,13.286126023908574
+2026-09-20 14:00:00,Mumbai (8039),6,Gradient boosting,19.0,13.335309636793363
+2026-09-20 17:00:00,Mumbai (8039),6,Gradient boosting,31.0,24.790604679134123
+2026-09-20 20:00:00,Mumbai (8039),6,Gradient boosting,36.0,15.513261063675484
+2026-09-20 23:00:00,Mumbai (8039),6,Gradient boosting,36.0,17.337284625985795
+2026-09-21 02:00:00,Mumbai (8039),6,Gradient boosting,50.0,17.973493184831568
+2026-09-21 05:00:00,Mumbai (8039),6,Gradient boosting,44.0,13.839881101025586
+2026-09-21 11:00:00,Mumbai (8039),6,Gradient boosting,27.0,15.631880362591366
+2026-09-21 14:00:00,Mumbai (8039),6,Gradient boosting,18.0,14.41317596217742
+2026-09-21 17:00:00,Mumbai (8039),6,Gradient boosting,15.0,15.122933836366371
+2026-09-21 20:00:00,Mumbai (8039),6,Gradient boosting,26.0,14.17928612494722
+2026-09-21 23:00:00,Mumbai (8039),6,Gradient boosting,34.0,13.779782806552124
+2026-09-22 02:00:00,Mumbai (8039),6,Gradient boosting,36.0,10.654224316595007
+2026-09-16 08:00:00,Mumbai (8039),12,Gradient boosting,13.0,13.63643679275533
+2026-09-16 11:00:00,Mumbai (8039),12,Gradient boosting,14.0,14.772418959152514
+2026-09-16 14:00:00,Mumbai (8039),12,Gradient boosting,32.0,14.494539505708891
+2026-09-16 17:00:00,Mumbai (8039),12,Gradient boosting,15.0,14.064568198370894
+2026-09-16 20:00:00,Mumbai (8039),12,Gradient boosting,21.0,14.01983375847036
+2026-09-16 23:00:00,Mumbai (8039),12,Gradient boosting,20.0,15.56801076289106
+2026-09-17 02:00:00,Mumbai (8039),12,Gradient boosting,11.0,11.81042450166253
+2026-09-17 05:00:00,Mumbai (8039),12,Gradient boosting,6.0,11.984761304604852
+2026-09-17 08:00:00,Mumbai (8039),12,Gradient boosting,9.0,11.893322879294775
+2026-09-17 11:00:00,Mumbai (8039),12,Gradient boosting,11.0,14.542094044609772
+2026-09-17 14:00:00,Mumbai (8039),12,Gradient boosting,9.0,13.932496444611322
+2026-09-17 17:00:00,Mumbai (8039),12,Gradient boosting,5.0,14.397440316910474
+2026-09-17 20:00:00,Mumbai (8039),12,Gradient boosting,10.0,15.023243005862698
+2026-09-17 23:00:00,Mumbai (8039),12,Gradient boosting,12.0,14.975051334625103
+2026-09-18 02:00:00,Mumbai (8039),12,Gradient boosting,11.0,15.498798768174934
+2026-09-18 05:00:00,Mumbai (8039),12,Gradient boosting,8.0,15.297592694904912
+2026-09-18 08:00:00,Mumbai (8039),12,Gradient boosting,10.0,17.95542524490453
+2026-09-18 11:00:00,Mumbai (8039),12,Gradient boosting,15.0,14.176015853743534
+2026-09-18 14:00:00,Mumbai (8039),12,Gradient boosting,13.0,12.599249931219816
+2026-09-18 17:00:00,Mumbai (8039),12,Gradient boosting,10.0,12.602401249589436
+2026-09-18 20:00:00,Mumbai (8039),12,Gradient boosting,5.0,15.632881895837471
+2026-09-18 23:00:00,Mumbai (8039),12,Gradient boosting,23.0,17.385941918209678
+2026-09-19 02:00:00,Mumbai (8039),12,Gradient boosting,33.0,13.76023341620008
+2026-09-19 05:00:00,Mumbai (8039),12,Gradient boosting,15.0,15.576327160701874
+2026-09-19 08:00:00,Mumbai (8039),12,Gradient boosting,21.0,12.99429686476472
+2026-09-19 11:00:00,Mumbai (8039),12,Gradient boosting,35.0,15.872875859154801
+2026-09-19 14:00:00,Mumbai (8039),12,Gradient boosting,23.0,17.979234099960276
+2026-09-19 17:00:00,Mumbai (8039),12,Gradient boosting,26.0,13.834554657439021
+2026-09-19 20:00:00,Mumbai (8039),12,Gradient boosting,33.0,12.159157958474625
+2026-09-19 23:00:00,Mumbai (8039),12,Gradient boosting,25.0,12.010579608745564
+2026-09-20 02:00:00,Mumbai (8039),12,Gradient boosting,19.0,10.924972124304798
+2026-09-20 05:00:00,Mumbai (8039),12,Gradient boosting,21.0,10.848833320029184
+2026-09-20 08:00:00,Mumbai (8039),12,Gradient boosting,19.0,12.385973792959673
+2026-09-20 11:00:00,Mumbai (8039),12,Gradient boosting,31.0,18.629380865924926
+2026-09-20 14:00:00,Mumbai (8039),12,Gradient boosting,36.0,18.78068866587903
+2026-09-20 17:00:00,Mumbai (8039),12,Gradient boosting,36.0,19.650294501537182
+2026-09-20 20:00:00,Mumbai (8039),12,Gradient boosting,50.0,15.44749637783317
+2026-09-20 23:00:00,Mumbai (8039),12,Gradient boosting,44.0,18.167925371753256
+2026-09-21 05:00:00,Mumbai (8039),12,Gradient boosting,27.0,10.756136947422196
+2026-09-21 08:00:00,Mumbai (8039),12,Gradient boosting,18.0,12.175539211575607
+2026-09-21 11:00:00,Mumbai (8039),12,Gradient boosting,15.0,17.77507274488761
+2026-09-21 14:00:00,Mumbai (8039),12,Gradient boosting,26.0,14.488755870288553
+2026-09-21 17:00:00,Mumbai (8039),12,Gradient boosting,34.0,13.672402481791778
+2026-09-21 20:00:00,Mumbai (8039),12,Gradient boosting,36.0,13.157234479955047
+2026-09-16 08:00:00,Mumbai (8039),24,Gradient boosting,21.0,9.390065789636362
+2026-09-16 11:00:00,Mumbai (8039),24,Gradient boosting,20.0,10.893991804111742
+2026-09-16 14:00:00,Mumbai (8039),24,Gradient boosting,11.0,13.332318140320838
+2026-09-16 17:00:00,Mumbai (8039),24,Gradient boosting,6.0,10.142255549357547
+2026-09-16 20:00:00,Mumbai (8039),24,Gradient boosting,9.0,12.233651381693088
+2026-09-16 23:00:00,Mumbai (8039),24,Gradient boosting,11.0,11.566820185256903
+2026-09-17 02:00:00,Mumbai (8039),24,Gradient boosting,9.0,17.1754128136143
+2026-09-17 05:00:00,Mumbai (8039),24,Gradient boosting,5.0,10.372799955533823
+2026-09-17 08:00:00,Mumbai (8039),24,Gradient boosting,10.0,11.76691509044688
+2026-09-17 11:00:00,Mumbai (8039),24,Gradient boosting,12.0,12.391795730669113
+2026-09-17 14:00:00,Mumbai (8039),24,Gradient boosting,11.0,15.931896192820394
+2026-09-17 17:00:00,Mumbai (8039),24,Gradient boosting,8.0,10.395343584511457
+2026-09-17 20:00:00,Mumbai (8039),24,Gradient boosting,10.0,11.009956165321974
+2026-09-17 23:00:00,Mumbai (8039),24,Gradient boosting,15.0,10.513996679862851
+2026-09-18 02:00:00,Mumbai (8039),24,Gradient boosting,13.0,11.872394940174841
+2026-09-18 05:00:00,Mumbai (8039),24,Gradient boosting,10.0,10.896666267239894
+2026-09-18 08:00:00,Mumbai (8039),24,Gradient boosting,5.0,12.5793968597371
+2026-09-18 11:00:00,Mumbai (8039),24,Gradient boosting,23.0,11.420410102127615
+2026-09-18 14:00:00,Mumbai (8039),24,Gradient boosting,33.0,11.408443267186232
+2026-09-18 17:00:00,Mumbai (8039),24,Gradient boosting,15.0,9.91885686149798
+2026-09-18 20:00:00,Mumbai (8039),24,Gradient boosting,21.0,10.321715995322545
+2026-09-18 23:00:00,Mumbai (8039),24,Gradient boosting,35.0,12.42990506398024
+2026-09-19 02:00:00,Mumbai (8039),24,Gradient boosting,23.0,12.82472035918113
+2026-09-19 05:00:00,Mumbai (8039),24,Gradient boosting,26.0,13.163389582849089
+2026-09-19 08:00:00,Mumbai (8039),24,Gradient boosting,33.0,11.356371460297598
+2026-09-19 11:00:00,Mumbai (8039),24,Gradient boosting,25.0,20.372891298291584
+2026-09-19 14:00:00,Mumbai (8039),24,Gradient boosting,19.0,13.176750480279859
+2026-09-19 17:00:00,Mumbai (8039),24,Gradient boosting,21.0,12.977175900543191
+2026-09-19 20:00:00,Mumbai (8039),24,Gradient boosting,19.0,11.298593832981526
+2026-09-19 23:00:00,Mumbai (8039),24,Gradient boosting,31.0,14.47101760280056
+2026-09-20 02:00:00,Mumbai (8039),24,Gradient boosting,36.0,12.278589873290413
+2026-09-20 05:00:00,Mumbai (8039),24,Gradient boosting,36.0,15.502678602423147
+2026-09-20 08:00:00,Mumbai (8039),24,Gradient boosting,50.0,15.058927598225205
+2026-09-20 11:00:00,Mumbai (8039),24,Gradient boosting,44.0,18.187918810290405
+2026-09-20 17:00:00,Mumbai (8039),24,Gradient boosting,27.0,19.681402427406056
+2026-09-20 20:00:00,Mumbai (8039),24,Gradient boosting,18.0,21.394150773268798
+2026-09-20 23:00:00,Mumbai (8039),24,Gradient boosting,15.0,15.855235278261809
+2026-09-21 02:00:00,Mumbai (8039),24,Gradient boosting,26.0,17.462508902790816
+2026-09-21 05:00:00,Mumbai (8039),24,Gradient boosting,34.0,10.965219680635023
+2026-09-21 08:00:00,Mumbai (8039),24,Gradient boosting,36.0,12.225045784374368
